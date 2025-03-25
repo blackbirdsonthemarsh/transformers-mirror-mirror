@@ -1,13 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/mirror-mirror/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/mirror-mirror/","tags":["gardenEntry"],"noteIcon":"default","created":"2025-03-24T16:22:52.313-04:00","updated":"2025-03-25T14:18:50.161-04:00"}
 ---
  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ultrices, lacus id faucibus dictum, ipsum ante tincidunt ligula, id facilisis nisl lacus blandit mauris. Pellentesque nec metus erat. Morbi tortor est, feugiat eget purus quis, congue suscipit magna. Mauris pretium porta justo eu malesuada. Sed eget sapien eget erat posuere ornare in in tortor. Integer a lobortis metus, ut consectetur justo. Aenean pellentesque vitae mi ac pellentesque. Sed odio lectus, tincidunt eu faucibus vitae, tincidunt non sapien.
+Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its worldbuilding wiki, which is currently under construction.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet sollicitudin dolor, non consectetur eros. Donec consectetur vulputate nunc. Nullam nec interdum nisl. Integer id erat scelerisque tellus imperdiet vestibulum vel at elit. Mauris lacinia pretium erat eu bibendum. Vivamus scelerisque, orci at consequat condimentum, urna velit mattis turpis, id malesuada sapien orci quis dolor. Suspendisse accumsan mauris sit amet purus accumsan, sit amet sagittis augue facilisis. Quisque accumsan imperdiet est, ac blandit dui volutpat sit amet. Suspendisse gravida tincidunt quam eu commodo. Aenean non erat sodales, congue turpis eu, posuere purus.
+> [!info]- FAQ AND TRIVIA
+> >**Why was Mirror Mirror created?**
+> >For a fan-continuity that has lasted for more than half a decade and lead to a saga of friendship, betrayal and self-discovery, Mirror Mirror has surprisingly humble origins. When I was a middle schooler, I wanted to see a Shattered Glass take on the original Generation One cartoon, so I decided to write one. I thought it would be fun to start it off from the perspective of the four seekers that Bumblebee and Wheeljack met in the first episode, which quickly set the tone for the continuity, and provided me with a narrator.  One thing lead to another, and I've been working on this continuity on and off for the past six years. 
+> >
+> **When was Mirror Mirror created?** 
+> > My younger self never expected Mirror Mirror to be more than just a Shattered Glass version of the original Generation One cartoon, so they never bothered to write down the specific day. All I can say for certain is that it was created some time in 2019. 
+> > 
+> > **Who all works on Mirror Mirror?**
+> > Just me. 
+> > 
+> > **Does Mirror Mirror's universal stream have a name?**
+> > Iterastris -019.17 Iota! The name itself is a reference to Star Trek, a series that Mirror Mirror owes not just its title, but its very existence to! The 019 comes from the year the continuity was created, and the 17 comes from (provided memory serves) the first post I ever made about the continuity, though it had existed for some time before that. [For those who may be confused.](https://tfwiki.net/wiki/Universal_stream) 
+> > 
+> >**You mentioned a narrator?**
+> >Narrator might not be the best word to describe him... Mirror Mirror exists in-universe (under a very different title) as a historical document put together by Bitstream, who made it his mission to collect as many firsthand accounts of the war, the events that lead up to it, and its impacts as he could.
+> > 
+> >  **What series influenced Mirror Mirror?**
+> > When it comes to Transformers? Practically the whole franchise. I've been a Transformers fan for as long as I can remember, and while Mirror Mirror will always have its roots in the G1 cartoon, it takes from just about everything. The list of Transformers series that haven't had at least some influence on Mirror Mirror is comedically short, and will only grow shorter. Outside the franchise? Star Trek, as previously cited, and several works in the mecha genre, chief among them Getter Robo.  
+> > 
+>> **Do you have any other fan-continuities?**
+> Yes, several! They range from projects I'm working on with friends, to alternate universes that spiraled out of control, to premises for Transformers series that have been rattling around in my head for far longer than they should have. I'm proud to say that Mirror Mirror is the oldest of the bunch, and the one that has been in development (very messy development) for the longest.  
+> >
+> >**Who hurt you?**
+> >This question tends to come up a lot when I tell people about Mirror Mirror. [[Primus\|I]] [[Characters/Galvatron\|can't]] [[Shadowplay\|imagine]] [[Empurata\|why.]] 
+> 
 
-Aliquam semper fringilla mauris, non semper dui iaculis accumsan. Nulla id pretium tellus. Donec ultricies mi sit amet odio rutrum eleifend. Vivamus a luctus ligula, non laoreet dolor. Vestibulum cursus ullamcorper lectus, et sollicitudin odio pulvinar nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis laoreet vitae est sed vestibulum. Ut gravida rhoncus laoreet. Proin et tempor ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus tempus at dolor sed tristique. Vivamus ac leo semper, porttitor odio vel, luctus purus. Vivamus vitae tincidunt neque, et fermentum odio. Praesent id nunc dignissim, venenatis libero eu, mollis urna. Vestibulum quis metus sed lorem mollis elementum. In tempus risus nec nulla faucibus molestie.
-
-Integer sed condimentum velit. Duis a ex mollis, fringilla urna vitae, laoreet lorem. Duis mattis mollis ullamcorper. Cras efficitur, leo at luctus dignissim, ligula dolor consequat lacus, nec dignissim tortor lacus efficitur erat. Sed at tortor mattis, aliquet turpis ac, faucibus est. Phasellus vulputate ligula eget erat scelerisque aliquam. In porttitor, tortor et tempor consequat, libero nisl vestibulum nisi, ac lobortis velit diam vel lacus. Duis venenatis ligula non turpis blandit, ut vulputate leo ultricies. Nunc at arcu metus. Pellentesque at leo sagittis, tempus ipsum eu, hendrerit nisi. Nullam id magna nibh. Maecenas volutpat malesuada nulla eu faucibus. Nunc eu sapien lectus. Phasellus sed nunc eget orci elementum aliquet non id arcu.
-
-Suspendisse feugiat malesuada tempus. Morbi vitae leo porttitor, pellentesque purus eget, condimentum orci. Proin eros lectus, pharetra et malesuada ut, pharetra ac tortor. Curabitur gravida, urna eu lacinia pulvinar, arcu purus interdum purus, eget tincidunt magna felis vitae odio. Aenean dapibus urna nec risus cursus, non rutrum ligula semper. Quisque id suscipit libero. Pellentesque non lectus sagittis, ornare quam sit amet, sodales magna. Phasellus ac dui non diam aliquam interdum. Integer turpis urna, pretium sit amet ante eu, imperdiet eleifend justo. Sed rutrum aliquet fermentum.
