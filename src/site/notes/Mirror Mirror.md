@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/mirror-mirror/","tags":["gardenEntry"],"noteIcon":"default","created":"2025-03-24T16:22:52.313-04:00","updated":"2025-03-25T14:23:01.621-04:00"}
+{"dg-publish":true,"permalink":"/mirror-mirror/","tags":["gardenEntry"],"noteIcon":"default","created":"2025-03-24T16:22:52.313-04:00","updated":"2025-03-25T14:23:43.958-04:00"}
 ---
  
 Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its worldbuilding wiki, which is currently under construction.  
 
-> [!info]- FAQ AND TRIVIA
+> [!example]- FAQ AND TRIVIA
 > >**Why was Mirror Mirror created?**
 > >For a fan-continuity that has lasted for more than half a decade and lead to a saga of friendship, betrayal and self-discovery, Mirror Mirror has surprisingly humble origins. When I was a middle schooler, I wanted to see a Shattered Glass take on the original Generation One cartoon, so I decided to write one. I thought it would be fun to start it off from the perspective of the four seekers that Bumblebee and Wheeljack met in the first episode, which quickly set the tone for the continuity, and provided me with a narrator.  One thing lead to another, and I've been working on this continuity on and off for the past six years. 
 > > 
