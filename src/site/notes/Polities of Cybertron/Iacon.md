@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/polities-of-cybertron/iacon/","noteIcon":"default","created":"2025-03-24T17:22:25.981-04:00","updated":"2025-03-24T17:23:03.266-04:00"}
+{"dg-publish":true,"permalink":"/polities-of-cybertron/iacon/","noteIcon":"default"}
 ---
   
 Testing, testing, one, two, three! 
