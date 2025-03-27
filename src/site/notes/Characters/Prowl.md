@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/galvatron/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/prowl/","noteIcon":"default"}
 ---
   
 >[!warning] 

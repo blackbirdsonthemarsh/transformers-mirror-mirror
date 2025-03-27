@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"default"}
 ---
  
+>[!warning] 
+>This page is either entirely or partially incomplete. 
+
 Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its worldbuilding wiki, which is currently under construction.  
 
 > [!info]- FAQ and Trivia
@@ -27,5 +30,5 @@ Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its 
 > Yes, several! They range from projects I'm working on with friends, to alternate universes that spiraled out of control, to premises for Transformers series that have been rattling around in my head for far longer than they should have. I'm proud to say that Mirror Mirror is the oldest of the bunch, and the one that has been in development (very messy development) for the longest.  
 > >
 > >**Who hurt you?**
-> >This question tends to come up a lot when I tell people about Mirror Mirror. [[Primus\|I]] [[Characters/Galvatron\|can't]] [[Shadowplay\|imagine]] [[Empurata\|why.]] 
+> >This question tends to come up a lot when I tell people about Mirror Mirror. [[Cybertron/Primus\|I]] [[Characters/Galvatron\|can't]] [[Lore/History, Society and Culture/Shadowplay\|imagine]] [[Lore/History, Society and Culture/Empurata\|why.]] 
 > 

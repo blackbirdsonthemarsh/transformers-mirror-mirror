@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/galvatron/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/nova-prime/","noteIcon":"default"}
 ---
   
 >[!warning] 
