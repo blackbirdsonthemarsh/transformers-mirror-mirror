@@ -5,7 +5,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-An [[M.T.O.\|M.T.O.]] turned [[The Great War/Factions/Decepticons/Decepticon\|Decepticon]] medic, built by the [[History, Society and Culture/Cybertronian Unification\|government]] during the [[History, Society and Culture/Decepticon Uprising\|Decepticon Uprising]]. 
+An [[M.T.O.\|M.T.O.]] turned [[The Great War/Factions/Decepticons/Decepticon\|Decepticon]] medic, built by the [[Cybertron/History, Society and Culture/Cybertronian Unification\|government]] during the [[Cybertron/History, Society and Culture/Decepticon Uprising\|Decepticon Uprising]]. 
 ##### Notes
 ---
 - This is Mirror Mirror [Ambulon](https://tfwiki.net/wiki/Ambulon).  He was never used for any sort of combiner experiment on account of combiners not existing Mirror Mirror (the size issues alone…) and thus he kept his original name, which I’ve decided was Thunderclash. 
