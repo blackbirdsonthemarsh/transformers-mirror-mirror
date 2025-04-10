@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/lyzack/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/lyzack/"}
 ---
   
 >[!warning] 

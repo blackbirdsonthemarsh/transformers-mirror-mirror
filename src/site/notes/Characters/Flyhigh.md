@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/flyhigh/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/flyhigh/"}
 ---
   
 >[!warning] 

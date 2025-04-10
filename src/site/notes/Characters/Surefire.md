@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/surefire/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/surefire/"}
 ---
   
 >[!warning] 

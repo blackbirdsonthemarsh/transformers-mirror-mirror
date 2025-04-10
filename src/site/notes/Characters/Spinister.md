@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/spinister/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/spinister/"}
 ---
   
 >[!warning] 

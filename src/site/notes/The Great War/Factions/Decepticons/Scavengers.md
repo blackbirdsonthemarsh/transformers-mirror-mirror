@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-great-war/factions/decepticons/scavengers/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/the-great-war/factions/decepticons/scavengers/"}
 ---
   
 >[!warning] 

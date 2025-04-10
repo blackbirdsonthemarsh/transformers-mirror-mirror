@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/terminus/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/terminus/"}
 ---
   
 >[!warning] 

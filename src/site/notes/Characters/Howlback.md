@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/howlback/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/howlback/"}
 ---
   
 >[!warning] 

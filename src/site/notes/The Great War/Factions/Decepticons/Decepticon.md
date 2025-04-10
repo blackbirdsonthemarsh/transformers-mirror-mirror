@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-great-war/factions/decepticons/decepticon/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/the-great-war/factions/decepticons/decepticon/"}
 ---
   
 >[!warning] 

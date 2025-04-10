@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history-society-and-culture/thirteen/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/history-society-and-culture/thirteen/"}
 ---
   
 >[!warning] 

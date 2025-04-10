@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/rampage/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/rampage/"}
 ---
   
 >[!warning] 

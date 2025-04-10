@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/split-spark-siblings/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/split-spark-siblings/"}
 ---
   
 >[!warning] 

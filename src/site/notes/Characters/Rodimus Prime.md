@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/rodimus-prime/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/rodimus-prime/"}
 ---
 
 >[!warning] 

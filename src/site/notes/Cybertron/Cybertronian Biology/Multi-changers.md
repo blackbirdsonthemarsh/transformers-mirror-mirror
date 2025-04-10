@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/multi-changers/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/multi-changers/"}
 ---
   
 >[!warning] 

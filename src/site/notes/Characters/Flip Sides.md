@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/flip-sides/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/flip-sides/"}
 ---
   
 >[!warning] 

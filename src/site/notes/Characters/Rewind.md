@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/rewind/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/rewind/"}
 ---
   
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/thunderwing/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/thunderwing/"}
 ---
   
 >[!warning] 

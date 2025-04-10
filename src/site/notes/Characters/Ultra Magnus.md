@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ultra-magnus/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/ultra-magnus/"}
 ---
   
 >[!warning] 

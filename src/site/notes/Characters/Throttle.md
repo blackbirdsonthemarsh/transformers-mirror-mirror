@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/throttle/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/throttle/"}
 ---
   
 >[!warning] 

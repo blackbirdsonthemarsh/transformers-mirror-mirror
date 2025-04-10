@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-great-war/factions/autobots/autobot/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/the-great-war/factions/autobots/autobot/"}
 ---
   
 >[!warning] 

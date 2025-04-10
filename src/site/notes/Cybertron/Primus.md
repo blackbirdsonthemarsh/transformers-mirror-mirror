@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/primus/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/primus/"}
 ---
   
 >[!warning] 

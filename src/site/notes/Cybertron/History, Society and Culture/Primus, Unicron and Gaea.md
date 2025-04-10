@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history-society-and-culture/primus-unicron-and-gaea/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/history-society-and-culture/primus-unicron-and-gaea/"}
 ---
   
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/trypticon/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/trypticon/"}
 ---
   
 >[!warning] 

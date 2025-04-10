@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/nominus-prime/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/nominus-prime/"}
 ---
   
 >[!warning] 

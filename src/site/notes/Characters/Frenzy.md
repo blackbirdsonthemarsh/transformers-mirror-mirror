@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/frenzy/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/frenzy/"}
 ---
   
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/starscream/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/starscream/"}
 ---
   
 >[!warning] 

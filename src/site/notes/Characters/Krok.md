@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/krok/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/krok/"}
 ---
   
 >[!warning] 
@@ -20,7 +20,7 @@ His [[Cybertron/Cybertronian Biology/Outlier\|outlier]] abilities don’t make h
 Though he’s always been the aloof sort, as his [[Characters/Twirl\|batchmates]] will attest, Krok wasn’t always so cold. 
 
 ---
-Krok was built as part of an experimental line of stealth bombers [[Cybertron/Cybertronian Biology/Reproduction\|constructed cold]] in [[Cybertron/Polities of Cybertron/Polyhex\|Polyhex]]. On account of his [[Cybertron/Cybertronian Biology/Outlier\|unusual spark]], he 
+Krok was built as part of an experimental line of stealth bombers [[Cybertron/Cybertronian Biology/Reproduction\|constructed cold]] in [[Cybertron/Polities/Polyhex\|Polyhex]]. On account of his [[Cybertron/Cybertronian Biology/Outlier\|unusual spark]], he 
 ##### Notes
 --- 
 - Like many characters in Mirror Mirror, a good bit of Krok’s character comes not from any actual story, but from extraneous materials like bios and tech specs. Krok’s outlier abilities come from his [Dreamwave](https://64.media.tumblr.com/tumblr_ma5jdgnEYD1qg5jqjo2_1280.jpg), [Wings Universe](http://transformersclub.com/Timelines9_2014.pdf) and G1 bios, and his alternate mode comes from his [Timelines](https://tfwiki.net/wiki/Krok_(G1)#Timelines) figure. His tendency to talk to his pet similarly comes from his Wings Universe incarnation. 

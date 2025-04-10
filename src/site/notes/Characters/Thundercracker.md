@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/thundercracker/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/thundercracker/"}
 ---
   
 >[!warning] 

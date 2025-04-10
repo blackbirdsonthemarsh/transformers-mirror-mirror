@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history-society-and-culture/cybertronian-unification/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/history-society-and-culture/cybertronian-unification/"}
 ---
   
 >[!warning] 

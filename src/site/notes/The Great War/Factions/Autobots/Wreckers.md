@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-great-war/factions/autobots/wreckers/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/the-great-war/factions/autobots/wreckers/"}
 ---
   
 >[!warning] 

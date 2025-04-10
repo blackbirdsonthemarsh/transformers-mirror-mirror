@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/chromedome/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/chromedome/"}
 ---
   
 >[!warning] 

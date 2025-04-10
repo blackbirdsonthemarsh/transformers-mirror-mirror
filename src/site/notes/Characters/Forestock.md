@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/forestock/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/forestock/"}
 ---
   
 >[!warning] 

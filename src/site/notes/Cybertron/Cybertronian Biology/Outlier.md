@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/outlier/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/outlier/"}
 ---
   
 >[!warning] 

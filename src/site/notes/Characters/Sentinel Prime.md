@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/sentinel-prime/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/sentinel-prime/"}
 ---
   
 >[!warning] 

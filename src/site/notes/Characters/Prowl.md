@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/prowl/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/prowl/"}
 ---
   
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/thunderblast/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/thunderblast/"}
 ---
   
 >[!warning] 

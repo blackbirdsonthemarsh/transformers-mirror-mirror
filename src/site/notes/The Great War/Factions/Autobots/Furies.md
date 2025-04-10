@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-great-war/factions/autobots/furies/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/the-great-war/factions/autobots/furies/"}
 ---
   
 >[!warning] 

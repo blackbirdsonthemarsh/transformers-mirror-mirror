@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/hi-test/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/hi-test/"}
 ---
   
 >[!warning] 

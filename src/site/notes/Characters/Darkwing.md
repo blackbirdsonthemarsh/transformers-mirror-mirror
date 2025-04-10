@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/darkwing/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/darkwing/"}
 ---
   
 >[!warning] 

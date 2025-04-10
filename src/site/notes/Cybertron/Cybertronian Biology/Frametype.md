@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/frametype/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/frametype/"}
 ---
   
 >[!warning] 

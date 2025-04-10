@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-great-war/factions/decepticons/mayhem/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/the-great-war/factions/decepticons/mayhem/"}
 ---
   
 >[!warning] 

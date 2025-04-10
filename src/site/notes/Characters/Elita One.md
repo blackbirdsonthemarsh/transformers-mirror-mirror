@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/elita-one/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/elita-one/"}
 ---
   
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/termagax/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/termagax/"}
 ---
   
 >[!warning] 

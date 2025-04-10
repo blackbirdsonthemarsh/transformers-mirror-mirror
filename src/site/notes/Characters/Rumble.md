@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/rumble/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/rumble/"}
 ---
   
 >[!warning] 

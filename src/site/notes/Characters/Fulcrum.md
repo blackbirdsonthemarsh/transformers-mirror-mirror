@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fulcrum/","noteIcon":"default"}
+{"dg-publish":true,"permalink":"/characters/fulcrum/"}
 ---
   
 >[!warning] 
