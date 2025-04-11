@@ -22,7 +22,7 @@ My younger self never expected Mirror Mirror to be more than just a Shattered Gl
 Just me. 
 
 **Does Mirror Mirror's universal stream have a name?**
-Iterastris -019.17 Iota! The name itself is a reference to Star Trek, a series that Mirror Mirror owes not just its title, but its very existence to! The 019 and .17 come from the date (provided memory serves) I first posted online about the continuity, though it had existed for some time before that. [For those who may be confused.](https://tfwiki.net/wiki/Universal_stream) 
+Iterastris -019.17 Iota! The name itself is a reference to Star Trek, a series that Mirror Mirror owes not just its title, but its very existence to! The 019 and .17 come from the date (provided memory serves) I first posted online about the continuity, though it had existed for some time before that. [For those who may be confused.](https://tfwiki.net/wiki/Universal_stream) Because I am most certainly not a nerd, every other fan-continuity I have has a designation as well, including (but most certainly not limited to) Iterastris -021.25, Primax 025.19 Iota and Primax -025.19 Iota.
 
 **You mentioned a narrator?**
 Narrator might not be the best word to describe him... Mirror Mirror exists in-universe (under a very different title) as a historical document put together by Bitstream, who made it his mission to collect as many firsthand accounts of the war, the events that lead up to it, and its impacts as he could.
