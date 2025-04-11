@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cybertron/polities/vos/"}
 ---
   
-One of the oldest [[Cybertron\|Cybertronian]] city-states.
+One of the oldest [[Cybertron\|Cybertronian]] city-states. 
 ##### Notes
 --- 
 - Vos is an amalgamation of not only the city-state’s various depictions throughout the franchise’s history, but Crystal City as well. This is a nod to Starscream’s backstory in the Shattered Glass series put out by Fun Publications. n 
