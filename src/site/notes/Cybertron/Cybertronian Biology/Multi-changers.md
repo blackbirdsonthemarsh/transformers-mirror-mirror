@@ -19,11 +19,14 @@ Notable multi-changers in Mirror Mirror include:
 - [[Battletrap\|Battletrap]]
 - [[Overlord\|Overlord]] 
 - [[Springer\|Springer]]
+- [[Sandstorm\|Sandstorm]]
 - [[Characters/Airachnid\|Airachnid]]
 - [[Counterpunch\|Counterpunch]]
 - [[Characters/Rampage\|Rampage]]
 
-Multi-changers, with the exception of those who split in half during their transformations, are almost always forged. This is because of the mechanical complexity inherent in their transformations, and the fact that having two alternate modes, especially if these alternate modes are wildly different, necessitates compromising one or both modes. Both the [[Cybertron/History, Society and Culture/Primacy\|inter-war government]] and the [[The Great War/Factions/Autobots/Autobot\|Autobots]] deemed it too expensive to even bother making mass-production molds for triple-changers, let alone quad-changers, when you could build multiple molds that have to compromise nothing about their design for the same price. However, there were the [[Overlord\|occasional]] [[Characters/Rampage\|one-offs]].
+Multi-changers, with the exception of those who split in half during their transformations, are almost always forged. This is because of the mechanical complexity inherent in their transformations, and the fact that having two alternate modes, especially if these alternate modes are wildly different, necessitates compromising one or both modes. Both the [[Cybertron/History, Society and Culture/History/Primacy\|inter-war government]] and the [[The Great War/Factions/Autobots/Autobot\|Autobots]] deemed it too expensive to even bother making mass-production molds for triple-changers, let alone quad-changers, when you could build multiple molds that have to compromise nothing about their design for the same price. However, there were the [[Overlord\|occasional]] [[Characters/Rampage\|one-offs]].
+
+Multi-changers who split in half were the product of a brief experimental line produced under [[Zeta Prime\|Zeta Prime’s]] reign. A handful of ‘bots were produced, before the line was deemed not cost-effective enough to bother with any further. 
 
 Six-changers are exclusively forged, because the complexity of their designs meant that no attempts were made to begin with. Due to their complexity and the strain put on their sparks, six-changers often have disabilities or deformities, such as missing color nanites, or an [[Nightbird\|improperly-formed vocalizer]].
 ##### Notes

@@ -13,7 +13,7 @@ Stranger still, these ‘bots possess abilities that… might not even be physic
 
 When an outlier spark splits, the resulting sparks are outliers as well, with a comparable output power to outliers who did not originate from a split spark, which indicates that the characteristics of outlier sparks are not due to their output power, but are innate regardless of it.
 
-In the interwar years, sparks were chosen for experimental lines of cold constructs at a disproportionate rate, because the allure of a custom-made super-soldier with powers to boot would be too great for any dystopian government driven by paranoid militarism to resist. This isn’t to say that there was no paranoia surrounding them— there was always the fear that they would turn against the state, which lead to outliers being subjected to [[Cybertron/History, Society and Culture/Shadowplay\|shadowplay]] at much higher rates than regular ‘bots, and lead to a series of experiments where the government tried to create artificial outliers.
+In the interwar years, sparks were chosen for experimental lines of cold constructs at a disproportionate rate, because the allure of a custom-made super-soldier with powers to boot would be too great for any dystopian government driven by paranoid militarism to resist. This isn’t to say that there was no paranoia surrounding them— there was always the fear that they would turn against the state, which lead to outliers being subjected to [[Cybertron/History, Society and Culture/History/Shadowplay\|shadowplay]] at much higher rates than regular ‘bots, and lead to a series of experiments where the government tried to create artificial outliers.
 
 Notable outliers in Mirror Mirror include:
 - [[Characters/Starscream\|Starscream]]
