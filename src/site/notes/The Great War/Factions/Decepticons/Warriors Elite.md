@@ -15,7 +15,7 @@ By war’s end, its roster was comprised of:
 [[Characters/Strika\|Strika]]
 [[Black Shadow\|Black Shadow]]
 [[Characters/Damus\|Tarn]]
-[[Sixshot\|Sixshot]]
+[[Characters/Sixshot\|Sixshot]]
 [[Overlord\|Overlord]]
 [[Deadlock\|Deadlock]]
 [[Characters/Rampage\|Rampage]]
