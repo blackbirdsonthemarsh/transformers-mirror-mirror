@@ -21,5 +21,5 @@ By war’s end, its roster was comprised of:
 [[Characters/Rampage\|Rampage]]
 #### Notes
 ---
-- Their roster in Mirror Mirror is a who’s-who of incredibly powerful Decepticons (and one Predacon) from across the Transformers franchise. 
+- Their roster in Mirror Mirror is a who’s-who of incredibly powerful Decepticons (and one Predacon) from across the Transformers franchise. I was originally going to have their lineup be much closer to IDW’s, until I remembered that Heretech and Killmaster had no discernible personalities (outside of IDW’s second continuity, but that Heretech wouldn’t work at all for Mirror Mirror) and I would prefer to expand minor characters who have something to work with rather than invent personalities whole cloth. 
 - The reason they turned the tide of the war in Mirror Mirror is because they were deployed exclusively against the Autobots, because the Decepticons of Mirror Mirror had no [imperialistic ambitions](https://tfwiki.net/wiki/Decepticon_Empire#2005_IDW_continuity). They were used quite strategically to break through enemy lines and 
