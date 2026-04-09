@@ -9,7 +9,7 @@ The Sonic Canyons are one of the strangest places on [[Cybertron\|Cybertron]], a
 
 The largest of these chasms are located in the southern hemisphere of Cybertron, and through them you can hear the nigh-deafening sound of the planet’s internals shifting, thousands of miles below the surface. The sound welling up from these canyons has given them their name. 
 
-Despite their inhospitable environment, the canyons are surrounded by some of the most active [[Hot Spot\|hot spots]] on Cybertron, and the region has developed a thriving industry thanks to their unique access to a cross-section of the very planet. Perhaps the most famous city-state in the region is [[Cybertron/Polities/Kaon\|Kaon]], the beating heart of Cybertronian industry. 
+Despite their inhospitable environment, the canyons are surrounded by some of the most active [[Sparkfield\|hot spots]] on Cybertron, and the region has developed a thriving industry thanks to their unique access to a cross-section of the very planet. Perhaps the most famous city-state in the region is [[Cybertron/Polities/Kaon\|Kaon]], the beating heart of Cybertronian industry. 
 ##### Notes
 ---
 - The Sonic Canyons are, in effect, a straight shot down to Primus himself. 

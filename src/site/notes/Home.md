@@ -7,7 +7,7 @@
 
 Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its worldbuilding wiki, which is currently under construction. 
 
-Where the original Shattered Glass storyline was a parody, Mirror Mirror aims to take a more serious approach that leans into the more fantastical elements of Transformers, with a touch of cosmic horror. Should I ever get around to writing it, Mirror Mirror will touch on themes of destiny, what it means to be created for another’s agenda, the horrors of war, the self-destructive nature of authoritarianism, what if being created in God’s image was a bad thing, and whether we can learn from our history and build a better world. 
+Where the original Shattered Glass storyline was a parody, Mirror Mirror aims to take a more serious approach that leans into the more fantastical elements of Transformers, with a touch of cosmic horror. Should I ever get around to writing it, Mirror Mirror will touch on themes of identity, what it means to be created for another’s agenda, the self-destructive nature of authoritarianism, what if being created in a God’s image was a bad thing, and whether we can learn from our history. 
 
 This should go without saying, but should Mirror Mirror ever be written, this will effectively spoil the entirety of it. 
 ##### FAQ and Trivia
@@ -46,4 +46,4 @@ Yes, several! They range from projects I'm working on with friends, to alternate
 The mirror universe trope has always fascinated me, and it’s something I explore in both fanfiction and original works, with with a series like Transformers, where so much is divided along the lines of good and evil? It’s fascinating. There *is* objective, cosmic good in Transformers in the form of Primus and the Matrix, so what happens when you flip that around? What does it mean to be created by something evil? While I love the original Fun Publications Shattered Glass story, I wanted to take a more serious approach (though, I haven’t stripped it of all the [[Lost Light\|goofiness]]) to really explore the potential of a mirror universe outside of a parody setting where everything’s dialed up to eleven. 
 
 **Who hurt you?**
-This question tends to come up a lot when I tell people about Mirror Mirror. [[Cybertron/Primus\|I]] [[Characters/Galvatron\|can't]] [[Cybertron/History, Society and Culture/History/Shadowplay\|imagine]] [[Cybertron/History, Society and Culture/Culture/Empurata\|why.]]  
+This question tends to come up a lot when I tell people about Mirror Mirror. [[Cybertron/Primus\|I]] [[Characters/Galvatron\|can't]] [[Cybertron/History, Society and Culture/Shadowplay\|imagine]] [[Cybertron/History, Society and Culture/Empurata\|why.]]  

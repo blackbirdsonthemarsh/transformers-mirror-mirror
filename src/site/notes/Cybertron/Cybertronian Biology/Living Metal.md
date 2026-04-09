@@ -5,8 +5,4 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-The primary
-
-##### Notes
----
-- 
+A catch-all term for the metals that make up the planet of [[Cybertron\|Cybertron]], and [[Cybertronians\|those born from it]]. Living metal 
