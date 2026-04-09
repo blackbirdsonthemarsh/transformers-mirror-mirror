@@ -10,7 +10,7 @@ Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its 
 Where the original Shattered Glass storyline was a parody, Mirror Mirror aims to take a more serious approach that leans into the more fantastical elements of Transformers, with a touch of cosmic horror. Should I ever get around to writing it, Mirror Mirror will touch on themes of identity, what it means to be created for another’s agenda, the self-destructive nature of authoritarianism, what if being created in a God’s image was a bad thing, and whether we can learn from our history. 
 
 This should go without saying, but should Mirror Mirror ever be written, this will effectively spoil the entirety of it. 
-##### FAQ and Trivia
+#### FAQ and Trivia
 ---
 **Why was Mirror Mirror created?**
 For a fan-continuity that has lasted for more than half a decade and lead to a saga of friendship, betrayal and self-discovery, Mirror Mirror has surprisingly humble origins. When I was a middle schooler, I wanted to see a Shattered Glass take on the original Generation One cartoon, so I decided to write one. I thought it would be fun to start it off from the perspective of the four seekers that Bumblebee and Wheeljack met in the first episode, which quickly set the tone for the continuity, and provided me with a narrator.  One thing lead to another, and I've been working on this continuity on and off for the past six years, and given how much it means to me, I’ll stop when I’m dead. 
