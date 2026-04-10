@@ -19,6 +19,5 @@ The last legitimate bearer of the Matrix — at least, the last to not [[Charact
 #### Usurpation of a Legacy
 When 
 ##### Notes
----
 - The lineage of the Matrix-bearers in Mirror Mirror is largely inspired by G1, with touches of Aligned and IDW here and there. [[Characters/Nova Prime\|Nova Prime]] held the Matrix during the [[Cybertron/History/The Quintesson War/Quintesson War\|Quintesson War]], before it was passed to [[Characters/Primacy/Nominus Prime\|a blend of Nominus Prime and Guardian Prime]] who presided over an era of peace in post-Quintesson Cybertron, and it was then held by [[Characters/Primacy/Zeta Prime\|Zeta Prime]], and [[Characters/Primacy/Sentinel Prime\|Sentinel Prime]] until his death. The next bearer was, of course, [[Characters/Autobots/Optimus Prime\|Optimus Prime]], but after his death, it was held for [[Characters/Decepticons/High Command/Megatron\|a short time by someone else]] before [[Characters/Autobots/Rodimus Prime\|Rodimus Prime]] took up the mantle of Prime. 
 - The Matrix is one of the elements of Mirror Mirror that has undergone the most rewrites. It is such an important part of Transformers lore, and I wanted to do it well. 
