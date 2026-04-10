@@ -5,14 +5,11 @@
     "Cybertron"
   ],
   "/Characters": [
-    "Camiens",
     "Decepticons",
-    "Neutral",
     "Primacy",
+    "Neutral",
+    "Camiens",
     "Titans"
-  ],
-  "/Characters/Camiens": [
-    "Full-tilt"
   ],
   "/Characters/Decepticons": [
     "Decepticon Intelligence",
@@ -65,40 +62,28 @@
     "Spinister",
     "Surefire"
   ],
+  "/Characters/Primacy": [
+    "Nominus Prime"
+  ],
   "/Characters/Neutral": [
     "Chromedome",
     "Outback",
     "Rewind"
   ],
-  "/Characters/Primacy": [
-    "Nominus Prime"
+  "/Characters/Camiens": [
+    "Full-tilt"
   ],
   "/Characters/Titans": [
     "Trypticon"
   ],
   "/Cybertron": [
-    "Cybertronian Biology",
     "History",
+    "Cybertronian Biology",
+    "Society and Culture",
+    "Technology",
     "Locations",
     "Polities",
-    "Primus and Unicron",
-    "Society and Culture",
-    "Technology"
-  ],
-  "/Cybertron/Cybertronian Biology": [
-    "Cold Construct",
-    "Deployers",
-    "Forging",
-    "Frametype",
-    "Inbuilt Weaponry",
-    "Living Metal",
-    "Multi-changers",
-    "Outlier",
-    "Spark",
-    "Sparkfield",
-    "Sparkling",
-    "Split-spark Siblings",
-    "Transformation"
+    "Primus and Unicron"
   ],
   "/Cybertron/History": [
     "The Great War",
@@ -125,6 +110,35 @@
     "Scavengers",
     "Warriors Elite"
   ],
+  "/Cybertron/Cybertronian Biology": [
+    "Cold Construct",
+    "Deployers",
+    "Forging",
+    "Frametype",
+    "Inbuilt Weaponry",
+    "Living Metal",
+    "Multi-changers",
+    "Outlier",
+    "Spark",
+    "Sparkfield",
+    "Sparkling",
+    "Split-spark Siblings",
+    "Transformation"
+  ],
+  "/Cybertron/Society and Culture": [
+    "Cybertronian Religion",
+    "Empurata",
+    "Matrix",
+    "Primus, Unicron and Gaea",
+    "Shadowplay",
+    "Thirteen"
+  ],
+  "/Cybertron/Technology": [
+    "Foldspace Warhead",
+    "Fusion Cannon",
+    "Null-ray",
+    "Space Bridge"
+  ],
   "/Cybertron/Locations": [
     "Argon Sea",
     "Hydrax Plateau",
@@ -144,19 +158,5 @@
   ],
   "/Cybertron/Primus and Unicron": [
     "Ununtrium"
-  ],
-  "/Cybertron/Society and Culture": [
-    "Cybertronian Religion",
-    "Empurata",
-    "Matrix",
-    "Primus, Unicron and Gaea",
-    "Shadowplay",
-    "Thirteen"
-  ],
-  "/Cybertron/Technology": [
-    "Foldspace Warhead",
-    "Fusion Cannon",
-    "Null-ray",
-    "Space Bridge"
   ]
 }
