@@ -14,7 +14,7 @@ By the end of the war, its roster was comprised of:
 - [[Characters/Forestock\|Characters/Forestock]];
 - [[Crucible\|Crucible]], its logistics expert;
 - [[Scissorsaw\|Scissorsaw]];
-- [[Characters/Decepticons/Amp\|Amp]], its communication officer;
+- [[c/Decepticons/Amp\|c/Decepticons/Amp]], its communication officer;
 - and [[Pharma\|Pharma]], its medic. 
 
 Though they were created to operate independently, they occasionally worked with other Decepticon special operations units, such as [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]] and the [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|Scavengers]]. 

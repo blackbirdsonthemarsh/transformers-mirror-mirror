@@ -41,6 +41,6 @@ Notable outliers in Mirror Mirror include:
 ---
 - In Mirror Mirror, [Outliers](https://tfwiki.net/wiki/Outlier_(group)) and [Point One Percenters](https://tfwiki.net/wiki/Point_One_Percenter) are one in the same, and the terms themselves are interchangeable.  Mirror Mirror’s outliers have the unusual, seemingly random powers of IDW’s outliers, and the strange colors, incredible power and monumentally dangerous nature of IDW’s point one percenters.
 - Their sparks are so powerful that they’d skew any dataset, hence the term. Flamewar’s spark has an output rivaling [[Characters/Tidal Wave\|Tidal Wave’s]]. She is thirteen feet tall. He is more than a thousand. 
-- Outliers and the practically reality-breaking nature of their powers are a hint that Cybertronians are… [[Cybertron/Primus\|not exactly a normal species]]. 
+- Outliers and the practically reality-breaking nature of their powers are a hint that Cybertronians are… [[Cybertron/Primus and Unicron/Primus\|not exactly a normal species]]. 
 - There was no [Jhiaxian Academy of Advanced Technology](https://tfwiki.net/wiki/Jhiaxian_Academy_of_Advanced_Technology) in Mirror Mirror, partially because outliers were not persecuted and thus there was no need to keep them hidden away from a wider Cybertron, and partially because [[Characters/Shockwave\|Characters/Shockwave]] would be a comedically horrible teacher and he is very aware of it. 
 - Basically anyone and everyone in the franchise who has a wacky power or a strange ability is an outlier in Mirror Mirror. 

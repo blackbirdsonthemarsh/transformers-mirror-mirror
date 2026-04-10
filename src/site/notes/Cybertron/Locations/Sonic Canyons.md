@@ -5,7 +5,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-The Sonic Canyons are one of the strangest places on [[Cybertron\|Cybertron]], and are a stark reminder of the planet’s nature as a [[Cybertron/Primus\|living being]]. Cybertron is made up of layers and layers of metal, tens of miles apart, wrapped around the body of [[Primus.\|Primus.]] The edges of these plates align to form [[Cybertron/Cybertronian Biology/Transformation\|transformation seams]], leading to a series of cracks spiderwebbing along the planet, that lead straight down to the internals of Primus himself. Some of these cracks are hardly noticeable, something not even a human could fall through, while others are veritable chasms. 
+The Sonic Canyons are one of the strangest places on [[Cybertron\|Cybertron]], and are a stark reminder of the planet’s nature as a [[Cybertron/Primus and Unicron/Primus\|living being]]. Cybertron is made up of layers and layers of metal, tens of miles apart, wrapped around the body of [[Primus.\|Primus.]] The edges of these plates align to form [[Cybertron/Cybertronian Biology/Transformation\|transformation seams]], leading to a series of cracks spiderwebbing along the planet, that lead straight down to the internals of Primus himself. Some of these cracks are hardly noticeable, something not even a human could fall through, while others are veritable chasms. 
 
 The largest of these chasms are located in the southern hemisphere of Cybertron, and through them you can hear the nigh-deafening sound of the planet’s internals shifting, thousands of miles below the surface. The sound welling up from these canyons has given them their name. 
 
