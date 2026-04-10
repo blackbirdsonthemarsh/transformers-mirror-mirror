@@ -15,6 +15,5 @@ Praxus, ever since the industry that defined it closed up shop, has been seen by
 
 The city survived the [[Cybertron/History/The Great War/Great War\|Great War]] almost untouched, largely due to its unimportance. 
 ##### Notes
----
 - Praxus is space Ohio. This originally began as a joke, where I decided that the city-state — which often finds itself tragically destroyed — was utterly irrelevant and survived the war unscathed because nobody paid any attention to it. As things related to this continuity tend to do, this spiraled wildly out of control, and now Mirror Mirror Praxus is part of the Cybertronian equivalent of the [Rust Belt](https://en.wikipedia.org/wiki/Rust_Belt#). While Praxus is not a one-to-one allegory, nor is its history that of the Rust Belt with the names changed, I have taken some influence from the effects of deindustrialization and the resulting loss of jobs. 
 - Characters built or forged in Praxus include: [[Characters/Decepticons/Decepticon Intelligence/Prowl\|Prowl]], [[Barricade\|Barricade]], [[Bluestreak\|Bluestreak]], [[Minerva\|Minerva]], [[Nightbeat\|Nightbeat]], [[Ironhide\|Ironhide]] and [[Crankcase\|Crankcase]]. 

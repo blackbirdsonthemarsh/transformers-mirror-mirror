@@ -6,7 +6,6 @@ One of the northernmost [[Cybertron\|Cybertronian]] city-states, built on a seri
 
 Polyhex is famous across the planet for its foul weather, with near-constant lightning storms that leave the skies black even on the best of days. Where most Cybertronians see such weather as terrifying and inhospitable, Polyhexians look upon the hellish storms that scar the lands below with a certain fondness. When the hurricanes below grow so strong they shake the islands themselves, Polyhexians take rest days until the weather calms. 
 ##### Notes
---- 
 - Polyhex’s importance to the Decepticon cause comes from its depiction in Marvel G1. 
 - Were Mirror Mirror to put any importance on the [first five cities](https://tfwiki.net/wiki/Fall_of_the_First_Five_Cities) to align themselves with the Decepticon cause, they would be (in no particular order) [[Cybertron/Polities/Tarn\|Tarn]], [[Cybertron/Polities/Kaon\|Kaon]], [[Cybertron/Polities/Kalis\|Kalis]], [[Helex\|Helex]] and [[Cybertron/Polities/Polyhex\|Polyhex]].  
 - The colors traditionally associated with Polyhex are orange, blue, black, and cream. Many Polyhexian Decepticons painted themselves in such colors during the war, as a means of showing their allegiance to their homeland. 

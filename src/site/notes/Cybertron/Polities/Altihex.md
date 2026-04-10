@@ -12,5 +12,4 @@ During the [[Cybertron/History/The Great War/Great War\|Great War]], the two cit
 Altihex is home to a large research university, which is well-known for its research into improving the energon refining process. While it isn’t as large or well-funded as its counterparts in [[Cybertron/Polities/Vos\|Vos]] and [Polyhex]], it is quite well-respected, and known for its thriving student culture. It is the fore
 
 ##### Notes
----
 - Urayan and Altihexian are quite similar languages due to literally millions of years of cultural cross-pollination, while Tetrahexian sounds utterly alien to the both of them. Think of how Norwegian and Danish are similar enough, but, say, Finnish sounds nothing like either of them despite Finland being right next door geographically speaking.
