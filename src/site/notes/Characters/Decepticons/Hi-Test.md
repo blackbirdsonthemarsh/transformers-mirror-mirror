@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/characters/decepticons/hi-test/","dg-note-properties":{}}
+---
+  
+>[!warning] 
+>This page is either entirely or partially incomplete. 
+
+A [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] [[Cybertron/Cybertronian Biology/Frametype\|gunformer]], [[Cybertron/Society and Culture/Spark Bond\|binary-bonded]] to [[Characters/Decepticons/Dreadwind\|Dreadwind]]. Where Dreadwind’s a contender for the happiest ‘bot on Cybertron even on a bad day, Hi-Test’s a (self-described) realist. Unusually enough for a member of a revolutionary paramilitary, Hi-Test’s always been the type to go with the flow, often to his own detriment. He tends not to apply himself, and sees little wrong with squandering his own potential, much to Dreadwind’s chagrin. This rather lackadaisical attitude has earned him quite a bit of [[Characters/Decepticons/Surefire\|disdain]] from his [[Characters/Decepticons/Fulcrum\|fellow]] Decepticons. 
+
+While their partners are attached at the hip, having been [[Cybertron/Society and Culture/Spark Bond\|Amica Endurae]] since before the war began, new words, perhaps new languages, would have to be invented to describe the disdain that [[Characters/Decepticons/Throttle\|Throttle]] and Hi-Test have for one another. Hi-Test has made his distaste quite clear to Dreadwind, though he tolerates Hi-Test’s presence and even manages to be quite cordial when Darkwing’s around. 
+
+To make matters somehow worse, they’ve both managed to befriend [[Characters/Decepticons/Forestock\|Forestock]], and neither have the heart to force him to pick one or the other. 
+#### Notes
+---
+- What exactly Targetmasters, Headmasters and Powermasters are varies from continuity to continuity. In American G1, they’re [Nebulans](https://tfwiki.net/wiki/Nebulan) in armor who turn into guns, engines, heads and what have you. In Japanese G1, they’re Cybertronian refugees who adapted to the hellhole that was Master, using bigger bodies (or partnering with bigger Cybertronians) to survive. In Mirror Mirror, they’re all Cybertronians, and all guns or other weapons, for simplicity’s sake. As much as I like the goofiness of Powermasters and the fun worldbuilding of headmasters in Japanese G1, they wouldn’t fit in Mirror Mirror, and I didn’t want to have to juggle the politics of another world on top of Cybertron, Quintessa, Earth and Caminus. 
+- Hi-Test and Throttle canonically transform into components for their respective partners, but that would be… well, that would be body horror on par with Human Centipede for a Mirror Mirror Cybertronian, so they’re guns instead. 

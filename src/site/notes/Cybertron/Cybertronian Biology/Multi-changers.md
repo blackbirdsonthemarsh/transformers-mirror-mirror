@@ -5,7 +5,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-“Multi-changer” is a catch-all term for Cybertronians with more than two forms. Some may have [[Blitzwing\|two alternate modes]], others may have four, [[Characters/Sixshot\|or even six]]. Some have [[Counterpunch\|two robot modes]], and strangest of all, some [[Flywheels\|split in half when they transform]], [[c/Decepticons/Overlord\|inhabiting two separate bodies simultaneously]]. 
+“Multi-changer” is a catch-all term for Cybertronians with more than two forms. Some may have [[Blitzwing\|two alternate modes]], others may have four, [[Characters/Sixshot\|or even six]]. Some have [[Counterpunch\|two robot modes]], and strangest of all, some [[Flywheels\|split in half when they transform]], [[Characters/Decepticons/Overlord\|inhabiting two separate bodies simultaneously]]. 
 
 Notable multi-changers in Mirror Mirror include:
 - [[Characters/Sixshot\|Characters/Sixshot]]
@@ -17,7 +17,7 @@ Notable multi-changers in Mirror Mirror include:
 - [[Octane\|Octane]]
 - [[Flywheels\|Flywheels]]
 - [[Battletrap\|Battletrap]]
-- [[c/Decepticons/Overlord\|Overlord]] 
+- [[Characters/Decepticons/Overlord\|Overlord]] 
 - [[Springer\|Springer]]
 - [[Characters/Airachnid\|Characters/Airachnid]]
 - [[Counterpunch\|Counterpunch]]
@@ -31,5 +31,5 @@ Six-changers are exclusively forged, because the complexity of their designs mea
 - Mirror Mirror Nightbird being a six-changer with a close relationship with Sixshot is a nod to her becoming a six-changer under his guidance in the Legends continuity. When I say that Mirror Mirror takes inspiration from just about every corner of the franchise, I mean it!
 - Duocons and Duobots are folded into the category of multi-changers for convenience’s sake. Mirror Mirror Duocons are one ‘bot with two alternate modes, each with its own brain module and spark— meaning that if one of their bodies was destroyed, they would simply be trapped in one of their alternate modes. 
 - Due to Mirror Mirror not really having mass-shifting, multi-changers are in a bit of an awkward situation. I’ve decided to incorporate the bizarre scaling problems that come with this into the lore, particularly when it comes to six-changers. This size issue also means that characters like [[Broadside\|Broadside]] or [[Characters/Tidal Wave\|Characters/Tidal Wave]] only have one alternate mode in Mirror Mirror, because the alternative would be either hilarious terrifying, depending on which alternate mode they’re scaled to. 
-- Despite having three forms, [[Titan\|Titans]] are not considered multi-changers, because having multiple modes simply comes with the territory of being a Titan. 
+- Despite having three forms, [[Cybertron/History/Age of the Primes/Titan\|Titans]] are not considered multi-changers, because having multiple modes simply comes with the territory of being a Titan. 
 - Characters with modifications that allow their car modes to fly, like [[Tracks\|Tracks]] or [[Road Rage\|Road Rage]], or go underwater like [[Characters/Prowl\|Characters/Prowl]], do not count as multi-changers. They are considered to have one alternate mode that they can modify.

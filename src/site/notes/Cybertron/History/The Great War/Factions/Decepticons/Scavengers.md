@@ -7,7 +7,7 @@
 
 Officially speaking, the Decepticon squadron stationed aboard the Strong Anthropic Principle are a fairly mundane unit, assigned to recover the bodies of fallen soldiers.
 
-In actuality, they are a [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] special forces unit, codenamed "the Scavengers." They were designed to be a smaller, more flexible version of [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]]. The unit was the brainchild of [[Bludgeon\|Bludgeon]], Mayhem's third leader, and [[Characters/Krok\|Characters/Krok]], who went on to found the team and lead it until its dissolution at the end of the [[The Great War/Great War\|Great War]].
+In actuality, they are a [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] special forces unit, codenamed "the Scavengers." They were designed to be a smaller, more flexible version of [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]]. The unit was the brainchild of [[Bludgeon\|Bludgeon]], Mayhem's third leader, and [[Characters/Krok\|Characters/Krok]], who went on to found the team and lead it until its dissolution at the end of the [[Cybertron/History/The Great War/Great War\|Great War]].
 
 Its leader, [[Characters/Krok\|Characters/Krok]], served at [[Bludgeon\|Bludgeon's]] side for millions of years. Its medic, [[Characters/Spinister\|Characters/Spinister]] is a decorated war hero who served under [[Characters/Thunderwing\|Characters/Thunderwing]] himself. [[Flywheels\|Flywheels]], its infiltration and stealth expert was recruited directly from Mayhem.
 

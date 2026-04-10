@@ -21,4 +21,4 @@ Notable sets of split-spark siblings include:
 ##### Notes
 ---
 - Mirror Mirror’s take on twins, triplets, etc. is largely inspired by their portrayal in the Prime cartoon. Ironically enough, the pair of twins that inspired this portrayal are not present in Mirror Mirror. Dreadwing does not exist in Mirror Mirror (though [[Characters/Dreadwind\|Characters/Dreadwind]] and [[Characters/Darkwing\|Characters/Darkwing]] do!) and Skyquake has no siblings. 
-- The appearance of a [[Cybertron/Cybertronian Biology/Forging\|forged]] Cybertronian is not solely determined by the [[Cybertron/Cybertronian Biology/Spark\|genetic instructions coded within their spark]], meaning that bar [[Cold Construct\|split sparks put into pre-fab bodies]], there are no identical twins. 
+- The appearance of a [[Cybertron/Cybertronian Biology/Forging\|forged]] Cybertronian is not solely determined by the [[Cybertron/Cybertronian Biology/Spark\|genetic instructions coded within their spark]], meaning that bar [[Cybertron/Cybertronian Biology/Cold Construct\|split sparks put into pre-fab bodies]], there are no identical twins. 

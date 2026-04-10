@@ -12,11 +12,11 @@ For millions of years, the Primacy had been stockpiling ununtrium. In the last d
 Though they were a symbol of hope to the Decepticons, their creation weighs heavily on [[Characters/Starscream\|Starscream's mind]]. Each and every component, down to the smallest joint in their frames, had to be rebuilt out of [[Cybertron/Ununtrium\|ununtrium]] in a long and dangerous process that risked the lives of each and every volunteer. 
 
 By war’s end, its roster was comprised of:
-- [[Characters/Strika\|Characters/Strika]], hero of the [[The Quintesson War/Quintesson War\|Quintesson War]]
-- [[Black Shadow\|Black Shadow]], a beacon of Decepticon ideals;
+- [[Characters/Strika\|Characters/Strika]], hero of the [[Cybertron/History/The Quintesson War/Quintesson War\|Quintesson War]]
+- [[Characters/Decepticons/Black Shadow\|Black Shadow]], a beacon of Decepticon ideals;
 - [[Characters/Damus\|Tarn]], who never shows his [[Cybertron/Society and Culture/Empurata\|face]];
 - [[Characters/Sixshot\|Characters/Sixshot]], 
-- [[c/Decepticons/Overlord\|Overlord]], stoic and somber; 
+- [[Characters/Decepticons/Overlord\|Overlord]], stoic and somber; 
 - [[Deadlock\|Deadlock]], who views the team as family;
 - and [[Characters/Rampage\|Characters/Rampage]], a failed Autobot science experiment turned Decepticon hero.
 

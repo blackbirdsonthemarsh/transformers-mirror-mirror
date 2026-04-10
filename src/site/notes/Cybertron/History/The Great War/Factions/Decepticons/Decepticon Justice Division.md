@@ -5,7 +5,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-The Decepticon Justice Division is a [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] special forces unit dedicated to hunting down [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|Autobot]] war criminals, and rescuing Decepticon prisoners of war. Beloved among their allies and infamous among their enemies, the Decepticon Justice Division stood alongside [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]] as one of the most famous units to ever fight in the [[The Great War/Great War\|Great War]].
+The Decepticon Justice Division is a [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] special forces unit dedicated to hunting down [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|Autobot]] war criminals, and rescuing Decepticon prisoners of war. Beloved among their allies and infamous among their enemies, the Decepticon Justice Division stood alongside [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]] as one of the most famous units to ever fight in the [[Cybertron/History/The Great War/Great War\|Great War]].
 
 Though they were nominally headquartered on [[Messatine\|Messatine]], the team spent most of their days aboard their ship, the [[Peaceful Tomorrow\|Peaceful Tomorrow]]. 
 
@@ -14,7 +14,7 @@ By the end of the war, its roster was comprised of:
 - [[Characters/Forestock\|Characters/Forestock]];
 - [[Crucible\|Crucible]], its logistics expert;
 - [[Scissorsaw\|Scissorsaw]];
-- [[c/Decepticons/Amp\|Amp]], its communication officer;
+- [[Characters/Decepticons/Amp\|Amp]], its communication officer;
 - and [[Pharma\|Pharma]], its medic. 
 
 Though they were created to operate independently, they occasionally worked with other Decepticon special operations units, such as [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]] and the [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|Scavengers]]. 
