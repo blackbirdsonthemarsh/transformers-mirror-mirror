@@ -9,7 +9,6 @@ Early space bridges were quite inefficient, requiring a bridge at both ends, wit
 
 The space bridges of today, however, are remarkably energy-efficient compared to their predecessors, and are a standard — mundane, even — part of any starship above a certain size class. They’re an essential part of Cybertronian trade, and without them, Cybertronian civilization as we know it could not exist. Modern space bridges can open portals anywhere, regardless of whether there is a bridge on the other end. However, dual-bridge setups are still used for portals intended to be open for a long period of time. The longer the jump, the more power they consume.
 
-When integrated into terrestrial infrastructure, they are referred to as ground bridges. Most ground bridges are considerably scaled-down, 
+When integrated into terrestrial infrastructure, they are referred to as ground bridges. Most ground bridges are considerably scaled-down, and have far more limited range, as they are typically used for transport of individuals rather than large pieces of equipment.
 ##### Notes
----
 - I will figure out how to incorporate [Spanner](https://tfwiki.net/wiki/Spanner_(G1)) eventually, mark my words. 
