@@ -12,11 +12,11 @@
     "Titans"
   ],
   "/Characters/Decepticons": [
-    "Decepticon Intelligence",
-    "Decepticon Justice Division",
     "High Command",
-    "Mayhem",
     "Scavengers",
+    "Decepticon Justice Division",
+    "Mayhem",
+    "Decepticon Intelligence",
     "Airachnid",
     "Ambulon",
     "Darkwing",
@@ -36,15 +36,6 @@
     "Triggerhappy",
     "Twirl"
   ],
-  "/Characters/Decepticons/Decepticon Intelligence": [
-    "Bitstream",
-    "Howlback",
-    "Red Wing"
-  ],
-  "/Characters/Decepticons/Decepticon Justice Division": [
-    "Amp",
-    "Forestock"
-  ],
   "/Characters/Decepticons/High Command": [
     "Ambulon",
     "Lyzack",
@@ -52,15 +43,24 @@
     "Soundwave",
     "Thunderblast"
   ],
-  "/Characters/Decepticons/Mayhem": [
-    "Thunderwing"
-  ],
   "/Characters/Decepticons/Scavengers": [
     "Flyhigh",
     "Fulcrum",
     "Krok",
     "Spinister",
     "Surefire"
+  ],
+  "/Characters/Decepticons/Decepticon Justice Division": [
+    "Amp",
+    "Forestock"
+  ],
+  "/Characters/Decepticons/Mayhem": [
+    "Thunderwing"
+  ],
+  "/Characters/Decepticons/Decepticon Intelligence": [
+    "Bitstream",
+    "Howlback",
+    "Red Wing"
   ],
   "/Characters/Primacy": [
     "Nominus Prime"
