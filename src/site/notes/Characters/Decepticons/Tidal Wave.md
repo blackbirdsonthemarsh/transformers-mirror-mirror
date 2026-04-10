@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/characters/decepticons/tidal-wave/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -9,8 +10,7 @@ Few would expect an aircraft carrier to be the delicate, gentle sort, but Tidal 
 
 While he’s a proud [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] and a loyal soldier, Tidal Wave longs for peace, and most of all, he longs for a day he can retire. 
 ##### Notes
----
 - Tidal Wave is roughly the size of the [USS Gerald Ford](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford), the largest aircraft carrier in the world as of 2025. 
 - Like most boats in Mirror Mirror, he spends the majority of his time in vehicle mode, and he regards it as his default state. 
-- Characters who have served aboard him include: [[Characters/Decepticons/Lyzack\|Characters/Decepticons/Lyzack]], [[Leozack\|Leozack]], [[Characters/Decepticons/Ambulon\|Characters/Decepticons/Ambulon]], [[Dirge\|Dirge]], [[Ramjet\|Ramjet]], [[Thrust\|Thrust]], [[Cloudcover\|Cloudcover]], [[Nightflight\|Nightflight]], [[Gaihawk\|Gaihawk]], [[Hellbat\|Hellbat]], [[Windsweeper\|Windsweeper]], [[Shatter\|Shatter]], [[Lunaclub\|Lunaclub]] and [[Moonheart\|Moonheart]]. 
+- Characters who have served aboard him include: [[Characters/Decepticons/High Command/Lyzack\|Lyzack]], [[Leozack\|Leozack]], [[Characters/Decepticons/High Command/Ambulon\|Ambulon]], [[Dirge\|Dirge]], [[Ramjet\|Ramjet]], [[Thrust\|Thrust]], [[Cloudcover\|Cloudcover]], [[Nightflight\|Nightflight]], [[Gaihawk\|Gaihawk]], [[Hellbat\|Hellbat]], [[Windsweeper\|Windsweeper]], [[Shatter\|Shatter]], [[Lunaclub\|Lunaclub]] and [[Moonheart\|Moonheart]]. 
 - Lyzack is one of his closest friends, and she loves to perch on his conning tower to watch the stars with him. After the war, she visits him every day, and they frequently take trips across the sea. 

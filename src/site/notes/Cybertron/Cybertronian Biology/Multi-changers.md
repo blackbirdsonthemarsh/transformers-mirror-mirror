@@ -1,17 +1,16 @@
 ---
 {"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/multi-changers/","dg-note-properties":{}}
 ---
-  
->[!warning] 
->This page is either entirely or partially incomplete. 
+
+
 
 “Multi-changer” is a catch-all term for Cybertronians with more than two forms. Some may have [[Blitzwing\|two alternate modes]], others may have four, [[Characters/Sixshot\|or even six]]. Some have [[Counterpunch\|two robot modes]], and strangest of all, some [[Flywheels\|split in half when they transform]], [[Characters/Decepticons/Overlord\|inhabiting two separate bodies simultaneously]]. 
 
 Notable multi-changers in Mirror Mirror include:
-- [[Characters/Sixshot\|Characters/Sixshot]]
+- [[Characters/Decepticons/Sixshot\|Sixshot]]
 - [[Nightbird\|Nightbird]]
 - [[Quickswitch\|Quickswitch]]
-- [[Characters/Sentinel Prime\|Characters/Sentinel Prime]]
+- [[Characters/Primacy/Sentinel Prime\|Sentinel Prime]]
 - [[Blitzwing\|Blitzwing]]
 - [[Astrotrain\|Astrotrain]]
 - [[Octane\|Octane]]
@@ -19,9 +18,9 @@ Notable multi-changers in Mirror Mirror include:
 - [[Battletrap\|Battletrap]]
 - [[Characters/Decepticons/Overlord\|Overlord]] 
 - [[Springer\|Springer]]
-- [[Characters/Airachnid\|Characters/Airachnid]]
+- [[Characters/Decepticons/Airachnid\|Airachnid]]
 - [[Counterpunch\|Counterpunch]]
-- [[Characters/Rampage\|Characters/Rampage]]
+- [[Characters/Decepticons/Rampage\|Rampage]]
 
 Multi-changers, with the exception of those who split in half during their transformations, are almost always forged. This is because of the mechanical complexity inherent in their transformations Both the [[Cybertron/History/Primacy\|inter-war government]] and the [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|Autobots]] deemed it too expensive to even bother making mass-production molds for triple-changers, let alone quad-changers, when you could build multiple molds that have to compromise nothing about their design for the same price. [[Characters/Rampage\|There were the occasional one-offs]]. 
 

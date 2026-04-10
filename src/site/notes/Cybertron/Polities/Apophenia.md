@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/cybertron/polities/apophenia/","dg-note-properties":{}}
 ---
 
->[!warning] 
->This page is either entirely or partially incomplete. 
+
 
 As the ages went on, and the [[Cybertronians\|Cybertronian]] race advanced to the point that they no longer needed their Primes, the [[Cybertron/Society and Culture/Thirteen\|Thirteen]] and the [[Cybertron/History/Age of the Primes/Titan\|Titans]] that had sworn fealty to them scattered to the winds, seeking adventure in far-off lands— or even other planets. [[Tempo\|Tempo]], the Titan who’d sworn an oath to [[Vector Prime\|Vector Prime]], chose to remain, even as Vector Prime departed for parts unknown. With his ability to slip in and out of time and space as easily as an organic drew breath, Tempo knew his friend would always return to him. As Tempo journeyed across Cybertron, he found friends, who chose to live upon and within him as he went. 
 

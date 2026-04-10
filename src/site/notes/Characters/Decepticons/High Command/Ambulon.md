@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/characters/decepticons/high-command/ambulon/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -11,11 +12,10 @@ Though, one can forgive Ambulon for being far too jaded for a ‘bot his age, co
 
 As he found himself bleeding out in a ditch, barely given a second glance by the ‘bots he was supposed to have been fighting alongside, Ambulon — known then by a designation, rather than a name — contemplated what a foul hand he’d been dealt. That was until a medic, a [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] medic, discovered him, and set to patching him up. The first kindness he’d ever experienced in his life came from someone he’d been told was his enemy. 
 
-He remembered that kindness, even after he’d fled the battle before he could be captured. He thought of it as he gouged out his own insignias. Ambulon found himself drawn to the Decepticon cause, devouring any of [[Characters/Decepticons/High Command/Megatron\|Megatron’s writings]] that he could get his hands on. The more he learned, the more he came to agree. He found that Megatron’s books and [[Characters/Decepticons/Galvatron\|Galvatron’s]] speeches struck a chord in him, and he could relate to their experiences— being seen as disposable, sent to suffer die for ‘bots who barely considered them people. He joined the Decepticons as soon as he could, with some small part of him hoping to find the medic who saved him.
+He remembered that kindness, even after he’d fled the battle before he could be captured. He thought of it as he gouged out his own insignias. Ambulon found himself drawn to the Decepticon cause, devouring any of [[Characters/Decepticons/High Command/Megatron\|Megatron’s writings]] that he could get his hands on. The more he learned, the more he came to agree. He found that Megatron’s books and [[Galvatron\|Galvatron’s]] speeches struck a chord in him, and he could relate to their experiences— being seen as disposable, sent to suffer die for ‘bots who barely considered them people. He joined the Decepticons as soon as he could, with some small part of him hoping to find the medic who saved him.
 
 Despite his only real skills being how to fight and fly, Ambulon found himself drawn to medicine. When [[Flatline\|Flatline]] needed an assistant in a pinch, Thunderclash stepped up, and this got him noticed. He was soon something of an apprentice to the various Decepticon medics, and he proved a fast and eager learner. He impressed his mentors, and he quickly became a full-fledged combat medic. 
 ##### Notes
----
 - He was never used for any sort of combiner experiment on account of combiners not existing Mirror Mirror (the size issues alone…) and thus he kept his original name, which I’ve decided was Thunderclash, because his original name supposedly belonged to someone readers knew. I have jettisoned the far more famous [Thunderclash](https://tfwiki.net/wiki/Thunder_Clash) so that Ambulon keeps the name. Of course, his friends call him Ambulon.
 - While making him a Decepticon-turned-Autobot was the obvious choice, I felt it would be much more interesting for various traitors and defectors to be defined by their loyalty instead, in the same way Shattered Glass takes on Starscream are utterly devoted to Megatron. 
 - Aesthetically, his helicopter alternate mode resembles a [UH-1 “Huey”](https://en.wikipedia.org/wiki/Bell_UH-1_Iroquois) as a nod to him (entirely unintentionally) acting far older than he really is. It also means he and Spinister (an old ‘bot who acts less than half his age) match, as Spinister turns into a [CH-47](https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook). 

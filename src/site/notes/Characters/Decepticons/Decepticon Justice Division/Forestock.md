@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/characters/decepticons/decepticon-justice-division/forestock/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -9,12 +10,11 @@ Forestock has lived a long and storied life, but not a particularly glamorous on
 
 Where many veterans joined political movements or [[Characters/Primacy/Nominus Prime\|launched]] [[Characters/Primacy/Zeta Prime\|themselves]] [[Characters/Primacy/Sentinel Prime\|into]] [[Slipstream\|politics]], Forestock tried to pick up the pieces of his old life, and mostly succeeded. Forestock spent much of the interwar period working for an interstellar shipping company, one of the few that survived the economic ruin brought about by the Quintesson invasion. Trips planetside were rare, and as Cybertron became more and more unrecognizable to him, Forestock was happy to turn down shore leave back home in favor of overtime. 
 
-As he watched the planet he’d fought for slide further and further into dictatorship, with [[Cybertron/Society and Culture/Empurata\|the mutilation of its citizens]] becoming standard practice, Forestock grew increasingly cynical. He’d fought and bled to save Cybertron from genocide, and this was what came of it all? This was the light at the end of the tunnel? His life felt like a joke. It wasn’t until the work of a pair of [[Characters/Decepticons/High Command/Megatron\|young]] [[Characters/Decepticons/Galvatron\|miners]] began to gain traction that Forestock saw a chance for a better world. 
+As he watched the planet he’d fought for slide further and further into dictatorship, with [[Cybertron/Society and Culture/Empurata\|the mutilation of its citizens]] becoming standard practice, Forestock grew increasingly cynical. He’d fought and bled to save Cybertron from genocide, and this was what came of it all? This was the light at the end of the tunnel? His life felt like a joke. It wasn’t until the work of a pair of [[Characters/Decepticons/High Command/Megatron\|young]] [[Galvatron\|miners]] began to gain traction that Forestock saw a chance for a better world. 
 
 As war loomed on the horizon, Forestock could have fled the planet, like so many others. He contemplated leaving, giving up Cybertron for lost. Yet, when the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]] began their uprising in earnest, Forestock signed on. He found himself in the thick of it, fighting in some of the most pivotal battles of the uprising. His time with the Decepticons saw him assigned to various snipers as a gun and spotter, and he quickly made a name for himself. Eventually, he was recruited a founding member of one of the Decepticon’s most elite units, the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon Justice Division\|Decepticon Justice Division]]. 
 
 Forestock is too jaded, and, as he’d put it, too old to be any sort of zealot. He believes in the Decepticon cause, but it’s not the faith of a blind loyalist, far from it. He’s happy to criticize the cause, criticize Megatron, even. He’s seen enough to know that any ideology can fail or go too far, and he lost his patience for rabid idealists a long time ago. He’s not prone to hero worship, nor is he the type to put anything or anyone on a pedestal— least of all any authority figures. 
 ##### Notes
----
 - Forestock is the oldest member of the DJD by miles, and he is quite fond of bringing it up. He calls everyone on the team “kid” unless he’s got another nickname in mind. 
 - Forestock was wielded by [[Characters/Decepticons/High Command/Megatron\|Megatron]] himself during one of the most important battles of the [[Cybertron/History/Decepticon Uprising\|Decepticon Uprising]], but most ‘bots don’t know the rifle he picked up was actually a person. Forestock thought he held him a bit too tightly.  

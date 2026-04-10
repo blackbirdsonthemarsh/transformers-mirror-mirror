@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/characters/decepticons/rampage/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -9,5 +10,4 @@ A [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]
 
 Despite their wildly different personalities, he has an odd friendship with [[Transmutate\|Transmutate]].
 ##### Notes
---- 
 - He’s a combination of his Beast Wars and Beast Wars: Uprising incarnations. 
