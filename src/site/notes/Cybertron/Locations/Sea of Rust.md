@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/sea-of-rust/"}
+{"dg-publish":true,"permalink":"/cybertron/locations/sea-of-rust/","dg-note-properties":{}}
 ---
   
 >[!warning] 

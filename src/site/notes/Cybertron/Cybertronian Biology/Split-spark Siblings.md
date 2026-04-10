@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/split-spark-siblings/"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/split-spark-siblings/","dg-note-properties":{}}
 ---
   
 >[!warning] 
@@ -10,15 +10,15 @@
 Some theorize that [[Cybertron/Cybertronian Biology/Outlier\|outliers]] are the result of a similar survival mechanism, where a spark does not split, but instead mutates into a new form capable of surviving. 
 
 Notable sets of split-spark siblings include:
-- [[Characters/Decepticons/Megatron\|Megatron]] and [[Characters/Decepticons/Galvatron\|Galvatron]]
-- [[Characters/Decepticons/Starscream\|Starscream]], [[Characters/Decepticons/Skywarp\|Skywarp]] and [[Characters/Decepticons/Thundercracker\|Thundercracker]]
-- [[Characters/Autobots/Optimus Prime\|Optimus Prime]] and [[Characters/Autobots/Ultra Magnus\|Ultra Magnus]]
-- [[Characters/Decepticons/Lyzack\|Lyzack]] and [[Leozack\|Leozack]]
-- [[Characters/Autobots/Rumble\|Rumble]] and [[Characters/Decepticons/Frenzy\|Frenzy]]
-- [[Characters/Neutral/Skyfire\|Skyfire]] and [[Jetfire\|Jetfire]] 
+- [[Characters/Megatron\|Characters/Megatron]] and [[Characters/Galvatron\|Characters/Galvatron]]
+- [[Characters/Starscream\|Characters/Starscream]], [[Characters/Skywarp\|Characters/Skywarp]] and [[Characters/Thundercracker\|Characters/Thundercracker]]
+- [[Characters/Optimus Prime\|Characters/Optimus Prime]] and [[Characters/Ultra Magnus\|Characters/Ultra Magnus]]
+- [[Characters/Lyzack\|Characters/Lyzack]] and [[Leozack\|Leozack]]
+- [[Characters/Rumble\|Characters/Rumble]] and [[Characters/Frenzy\|Characters/Frenzy]]
+- [[Characters/Skyfire\|Characters/Skyfire]] and [[Jetfire\|Jetfire]] 
 - [[Needlenose\|Needlenose]] and [[Tracks\|Tracks]] 
 - [[Sideswipe\|Sideswipe]] and [[Sunstreaker\|Sunstreaker]]
 ##### Notes
 ---
-- Mirror Mirror’s take on twins, triplets, etc. is largely inspired by their portrayal in the Prime cartoon. Ironically enough, the pair of twins that inspired this portrayal are not present in Mirror Mirror. Dreadwing does not exist in Mirror Mirror (though [[Characters/Decepticons/Dreadwind\|Dreadwind]] and [[Characters/Decepticons/Darkwing\|Darkwing]] do!) and Skyquake has no siblings. 
+- Mirror Mirror’s take on twins, triplets, etc. is largely inspired by their portrayal in the Prime cartoon. Ironically enough, the pair of twins that inspired this portrayal are not present in Mirror Mirror. Dreadwing does not exist in Mirror Mirror (though [[Characters/Dreadwind\|Characters/Dreadwind]] and [[Characters/Darkwing\|Characters/Darkwing]] do!) and Skyquake has no siblings. 
 - The appearance of a [[Cybertron/Cybertronian Biology/Forging\|forged]] Cybertronian is not solely determined by the [[Cybertron/Cybertronian Biology/Spark\|genetic instructions coded within their spark]], meaning that bar [[Cold Construct\|split sparks put into pre-fab bodies]], there are no identical twins. 

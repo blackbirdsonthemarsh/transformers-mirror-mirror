@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/inbuilt-weaponry/"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/inbuilt-weaponry/","dg-note-properties":{}}
 ---
   
 >[!warning] 

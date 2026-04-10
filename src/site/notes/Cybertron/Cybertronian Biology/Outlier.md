@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/outlier/"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/outlier/","dg-note-properties":{}}
 ---
   
 >[!warning] 
@@ -12,35 +12,35 @@ Where most sparks are pink or blue — the color being tied to the spark’s pol
 Outlier sparks were chosen for experimental lines of cold constructs at a disproportionate rate, because the idea of a custom-made super-soldier with powers to boot would be too great for any dystopian government driven by paranoid militarism to resist. This isn’t to say that there was no paranoia surrounding them— the possibility that they could turn against the state was a worrying one, which lead to outliers being subjected to [[Cybertron/Society and Culture/Shadowplay\|shadowplay]] at much higher rates than regular ‘bots, and lead to a series of experiments where the government tried to create artificial outliers.
 
 Notable outliers in Mirror Mirror include:
-- [[Characters/Decepticons/Starscream\|Starscream]]
-- [[Characters/Decepticons/Skywarp\|Skywarp]]
-- [[Characters/Decepticons/Thundercracker\|Thundercracker]]
-- [[Characters/Autobots/Elita One\|Elita One]]
+- [[Characters/Starscream\|Characters/Starscream]]
+- [[Characters/Skywarp\|Characters/Skywarp]]
+- [[Characters/Thundercracker\|Characters/Thundercracker]]
+- [[Characters/Elita One\|Characters/Elita One]]
 - [[Firestar\|Firestar]]
-- [[Characters/Decepticons/Krok\|Krok]]
-- [[Characters/Decepticons/Thunderwing\|Thunderwing]]
-- [[Characters/Decepticons/Damus\|Damus]]
-- [[Characters/Decepticons/Soundwave\|Soundwave]]
-- [[Characters/Decepticons/Black Shadow\|Black Shadow]]
+- [[Characters/Krok\|Characters/Krok]]
+- [[Characters/Thunderwing\|Characters/Thunderwing]]
+- [[Characters/Damus\|Characters/Damus]]
+- [[Characters/Soundwave\|Characters/Soundwave]]
+- [[Black Shadow\|Black Shadow]]
 - [[Blue Bacchus\|Blue Bacchus]]
 - [[Deadlock\|Deadlock]]
-- [[Characters/Decepticons/Sixshot\|Sixshot]]
+- [[Characters/Sixshot\|Characters/Sixshot]]
 - [[Megajet\|Megajet]]
-- [[Characters/Decepticons/Rampage\|Rampage]]
+- [[Characters/Rampage\|Characters/Rampage]]
 - [[Acid Storm\|Acid Storm]]
 - [[Ion Storm\|Ion Storm]]
 - [[Nova Storm\|Nova Storm]]
 - [[Carnivac\|Carnivac]]
 - [[Skids\|Skids]]
 - [[Grimlock\|Grimlock]]
-- [[Overlord\|Overlord]]
-- [[Characters/Decepticons/Strika\|Strika]]
+- [[c/Decepticons/Overlord\|Overlord]]
+- [[Characters/Strika\|Characters/Strika]]
 - [[Sunstorm\|Sunstorm]]
 - [[Flamewar\|Flamewar]]
 ##### Notes
 ---
 - In Mirror Mirror, [Outliers](https://tfwiki.net/wiki/Outlier_(group)) and [Point One Percenters](https://tfwiki.net/wiki/Point_One_Percenter) are one in the same, and the terms themselves are interchangeable.  Mirror Mirror’s outliers have the unusual, seemingly random powers of IDW’s outliers, and the strange colors, incredible power and monumentally dangerous nature of IDW’s point one percenters.
-- Their sparks are so powerful that they’d skew any dataset, hence the term. Flamewar’s spark has an output rivaling [[Characters/Decepticons/Tidal Wave\|Tidal Wave’s]]. She is thirteen feet tall. He is more than a thousand. 
+- Their sparks are so powerful that they’d skew any dataset, hence the term. Flamewar’s spark has an output rivaling [[Characters/Tidal Wave\|Tidal Wave’s]]. She is thirteen feet tall. He is more than a thousand. 
 - Outliers and the practically reality-breaking nature of their powers are a hint that Cybertronians are… [[Cybertron/Primus\|not exactly a normal species]]. 
-- There was no [Jhiaxian Academy of Advanced Technology](https://tfwiki.net/wiki/Jhiaxian_Academy_of_Advanced_Technology) in Mirror Mirror, partially because outliers were not persecuted and thus there was no need to keep them hidden away from a wider Cybertron, and partially because [[Characters/Decepticons/Shockwave\|Shockwave]] would be a comedically horrible teacher and he is very aware of it. 
+- There was no [Jhiaxian Academy of Advanced Technology](https://tfwiki.net/wiki/Jhiaxian_Academy_of_Advanced_Technology) in Mirror Mirror, partially because outliers were not persecuted and thus there was no need to keep them hidden away from a wider Cybertron, and partially because [[Characters/Shockwave\|Characters/Shockwave]] would be a comedically horrible teacher and he is very aware of it. 
 - Basically anyone and everyone in the franchise who has a wacky power or a strange ability is an outlier in Mirror Mirror. 

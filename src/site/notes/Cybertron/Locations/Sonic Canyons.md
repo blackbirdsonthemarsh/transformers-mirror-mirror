@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/sonic-canyons/"}
+{"dg-publish":true,"permalink":"/cybertron/locations/sonic-canyons/","dg-note-properties":{}}
 ---
   
 >[!warning] 

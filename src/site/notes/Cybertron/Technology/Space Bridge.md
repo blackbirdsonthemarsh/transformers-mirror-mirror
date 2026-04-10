@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/technology/space-bridge/"}
+{"dg-publish":true,"permalink":"/cybertron/technology/space-bridge/","dg-note-properties":{}}
 ---
   
 >[!warning] 

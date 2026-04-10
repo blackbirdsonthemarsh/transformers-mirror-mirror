@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/decepticon/"}
+{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/decepticon/","dg-note-properties":{}}
 ---
   
 >[!warning] 

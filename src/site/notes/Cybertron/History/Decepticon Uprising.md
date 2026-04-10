@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/decepticon-uprising/"}
+{"dg-publish":true,"permalink":"/cybertron/history/decepticon-uprising/","dg-note-properties":{}}
 ---
   
 >[!warning] 

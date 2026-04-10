@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/society-and-culture/empurata/"}
+{"dg-publish":true,"permalink":"/cybertron/society-and-culture/empurata/","dg-note-properties":{}}
 ---
   
 >[!warning] 

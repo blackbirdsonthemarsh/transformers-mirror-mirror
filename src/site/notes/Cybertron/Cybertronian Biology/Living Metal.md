@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/living-metal/"}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/living-metal/","dg-note-properties":{}}
 ---
   
 >[!warning] 

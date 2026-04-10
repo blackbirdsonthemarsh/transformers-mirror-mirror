@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/mayhem/"}
+{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/mayhem/","dg-note-properties":{}}
 ---
   
 >[!warning] 
@@ -9,9 +9,9 @@ The [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Deceptico
 
 Notable members include: 
 - [[Crasher\|Crasher]], its founder
-- [[Characters/Decepticons/Thunderwing\|Thunderwing]], its second leader
+- [[Characters/Thunderwing\|Characters/Thunderwing]], its second leader
 - [[Bludgeon\|Bludgeon]], its third, and most famous leader
-- [[Characters/Decepticons/Spinister\|Spinister]], a medic who served under Thunderwing, transferring out alongside him
+- [[Characters/Spinister\|Characters/Spinister]], a medic who served under Thunderwing, transferring out alongside him
 - [[Needlenose\|Needlenose]]
 - [[Flywheels\|Flywheels]], an infiltration expert later recruited into the [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|Scavengers]]
 - [[Macabre\|Macabre]] 

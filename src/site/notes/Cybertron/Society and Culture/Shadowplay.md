@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/society-and-culture/shadowplay/"}
+{"dg-publish":true,"permalink":"/cybertron/society-and-culture/shadowplay/","dg-note-properties":{}}
 ---
   
 >[!warning] 

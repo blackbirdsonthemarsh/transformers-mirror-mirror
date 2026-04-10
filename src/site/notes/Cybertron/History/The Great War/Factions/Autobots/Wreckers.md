@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/autobots/wreckers/"}
+{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/autobots/wreckers/","dg-note-properties":{}}
 ---
   
 >[!warning] 
