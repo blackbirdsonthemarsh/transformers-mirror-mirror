@@ -1,9 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
- 
->[!warning] 
->This page is either entirely or partially incomplete. 
+
 
 Transformers: Mirror Mirror is a Shattered Glass fan-continuity. Welcome to its worldbuilding wiki, which is currently under construction. 
 
@@ -37,7 +35,7 @@ A series following the events of the G1 cartoon, from the perspective of the Dec
 I have, quite a bit! About 20-30k words, split between the main narrative itself and several side stories. All of this has since been scrapped, so unless we’re particularly close, you’re not going to be reading it any time soon. The scope of the story got unmanageable, so I decided to take a multi-year break from writing to refine my ideas, sharpen my skills, and beat the project into a much more manageable shape. The current plan is to write various small works all set in the same continuity, with an overarching narrative unifying them all. 
 
 **What series influenced Mirror Mirror?**
-When it comes to Transformers? Practically the whole franchise. I've been a Transformers fan for as long as I can remember, and while Mirror Mirror will always have its roots in the G1 cartoon, it takes from just about everything. The list of Transformers series that haven't had at least some influence on Mirror Mirror is comedically short, and will only grow shorter. Outside the franchise? Star Trek, as previously cited, and several works in the mecha genre, chief among them the Yuusha series and Getter Robo.  
+When it comes to Transformers? Practically the whole franchise. I've been a Transformers fan for as long as I can remember, and while Mirror Mirror will always have its roots in the G1 cartoon, it takes from just about everything. The list of Transformers series that haven't had at least some influence on Mirror Mirror is comically short, and will only grow shorter. Outside the franchise? Star Trek, as previously cited, and several works in the mecha genre, chief among them the Yuusha series, Mobile Suit Gundam, Macross and Getter Robo.  
  
 **Do you have any other fan-continuities?**
 Yes, several! They range from projects I'm working on with friends, to alternate universes that spiraled out of control, to premises for Transformers series that have been rattling around in my head for far longer than they should have. Though I'm proud to say that Mirror Mirror is the oldest of the bunch! All but one of them are, or heavily involve, Shattered Glass.
@@ -46,4 +44,4 @@ Yes, several! They range from projects I'm working on with friends, to alternate
 The mirror universe trope has always fascinated me, and it’s something I explore in both fanfiction and original works, with with a series like Transformers, where so much is divided along the lines of good and evil? It’s fascinating. There *is* objective, cosmic good in Transformers in the form of Primus and the Matrix, so what happens when you flip that around? What does it mean to be created by something evil? While I love the original Fun Publications Shattered Glass story, I wanted to take a more serious approach (though, I haven’t stripped it of all the [[Cybertron/History/The Great War/Factions/Lost Light\|goofiness]]) to really explore the potential of a mirror universe outside of a parody setting where everything’s dialed up to eleven. 
 
 **Who hurt you?**
-This question tends to come up a lot when I tell people about Mirror Mirror. [[Cybertron/Primus and Unicron/Primus\|I]] [[Characters/Galvatron\|can't]] [[Cybertron/Society and Culture/Shadowplay\|imagine]] [[Cybertron/Society and Culture/Empurata\|why.]]  
+This question tends to come up a lot when I tell people about Mirror Mirror. [[Cybertron/Primus and Unicron/Primus\|I]] [[Characters/Decepticons/Galvatron\|can't]] [[Cybertron/Society and Culture/Shadowplay\|imagine]] [[Cybertron/Society and Culture/Empurata\|why.]]  

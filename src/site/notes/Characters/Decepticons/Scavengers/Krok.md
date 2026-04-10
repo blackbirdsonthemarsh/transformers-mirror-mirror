@@ -13,11 +13,11 @@
 >
 >
 
-Krok bears the honor of being one of the earliest [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] to have followed [[Characters/Megatron\|Characters/Megatron]], and has served with distinction. Krok’s attitude belies his age, and his tendency to keep others at arm’s length doesn’t endear him to many. Brilliant though he may be, his aloofness has proved quite the stumbling block for those under his command. Though, his walls have come down for [[Characters/Decepticons/Scavengers/Spinister\|more]] [[Bludgeon\|than]] [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|a]] [[Characters/Decepticons/Scavengers/Fulcrum\|few]] [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|‘bots]], proving there is something of a spark in there after all. 
+Krok bears the honor of being one of the earliest [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] to have followed [[Characters/Decepticons/High Command/Megatron\|Megatron]], and has served with distinction. Krok’s attitude belies his age, and his tendency to keep others at arm’s length doesn’t endear him to many. Brilliant though he may be, his aloofness has proved quite the stumbling block for those under his command. Though, his walls have come down for [[Characters/Decepticons/Scavengers/Spinister\|more]] [[Bludgeon\|than]] [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|a]] [[Characters/Decepticons/Scavengers/Fulcrum\|few]] [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|‘bots]], proving there is something of a spark in there after all. 
 
 His [[Cybertron/Cybertronian Biology/Outlier\|outlier]] abilities don’t make him any less intimidating. With a single step, he can create an earthquake with a reading of 7.0 on the Richter scale, and with a well-placed kick, he can launch a ‘bot into orbit. 
 
-Though he’s always been the aloof sort, as his [[Characters/Twirl\|batchmates]] will attest, Krok wasn’t always so cold. 
+Though he’s always been the aloof sort, as his [[Characters/Decepticons/Twirl\|batchmates]] will attest, Krok wasn’t always so cold. 
 
 ---
 Krok was built as part of an experimental line of stealth bombers [[Cybertron/Cybertronian Biology/Cold Construct\|constructed cold]] in [[Cybertron/Polities/Polyhex\|Polyhex]]. On account of his [[Cybertron/Cybertronian Biology/Outlier\|unusual spark]], he 

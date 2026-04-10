@@ -10,16 +10,16 @@ The Decepticon Justice Division is a [[Cybertron/History/The Great War/Factions/
 Though they were nominally headquartered on [[Messatine\|Messatine]], the team spent most of their days aboard their ship, the [[Peaceful Tomorrow\|Peaceful Tomorrow]]. 
 
 By the end of the war, its roster was comprised of:
-- [[Characters/Damus\|Characters/Damus]], its leader and founder;
-- [[Characters/Forestock\|Characters/Forestock]];
+- [[Characters/Decepticons/Damus\|Damus]] its leader and founder;
+- [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]];
 - [[Crucible\|Crucible]], its logistics expert;
 - [[Scissorsaw\|Scissorsaw]];
-- [[c/Decepticons/Amp\|c/Decepticons/Amp]], its communication officer;
+- [[Characters/Decepticons/Decepticon Justice Division/Amp\|Amp]], its communication officer;
 - and [[Pharma\|Pharma]], its medic. 
 
 Though they were created to operate independently, they occasionally worked with other Decepticon special operations units, such as [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]] and the [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|Scavengers]]. 
 ##### Notes
 ---
-- For a long time, I had no intention of even including the Decepticon Justice Division itself in Mirror Mirror. Originally, [[Characters/Damus\|Tarn]] and [[Characters/Forestock\|Vos]] were going to be the only ones present, because I had no real ideas for the others.  
+- For a long time, I had no intention of even including the Decepticon Justice Division itself in Mirror Mirror. Originally, [[Characters/Decepticons/Damus\|Tarn]] and [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Vos]] were going to be the only ones present, because I had no real ideas for the others.  
 - Unlike in IDW, their codenames are incredibly boring (more akin to real-world codenames and callsigns) and have no relevance to Decepticon history. They’re plenty dramatic, but they’re not *that* dramatic. That, and given that Tarn, Kaon, etc. were entirely independent nations for the majority of their history, it’d be akin to going “this is my coworker, the Federal Republic of Germany.” It would just sound bizarre to the characters in-universe. 
 - The Pet is Tarn’s pet dog. He’s just a dog, no horrifying backstory here. Well, he’s a turbofox, but turbofoxes are functionally dogs. He was a gift from Starscream.

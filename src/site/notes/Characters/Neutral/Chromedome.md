@@ -7,13 +7,14 @@
 
 Chromedome is a private detective with perhaps the strangest luck on Cybertron. He’d find himself hired for something utterly mundane, perhaps even mind-numbingly so. An affair, perhaps, or a missing person that the enforcers just couldn’t catch the trail of. Without fail, such a case would spiral wildly out of control, leading to a half-dozen other mysteries and perhaps even a conspiracy or two being uncovered along the way. 
 
-
 ---
+
+#### Private Eye
 Chromedome was constructed cold in [[Cybertron/Polities/Iacon\|Iacon]], part of a generic line designed for general labor. He bounced between jobs, briefly serving as a data analyst (in his words, pencil-pusher) at the Insitute for Higher Programming, crunching numbers day in and day out. This, he found, was unbearable.
 
 Eventually, he wound up opening a detective agency, and finally found a career that suited him. It suited him so well that he poured his life into it, to the point he had no hobbies or really anything outside of work. 
 
-It was during one such case that he met the [[Characters/Prowl\|‘bot]] that would change the course of his life forever. A private investigator with a motormouth and a sense of justice that bordered on suicidal. Everywhere Chromedome went, there was that chatterbox, talking to the same witnesses, poking around the same places, and even taking note of the same clues!
+It was during one such case that he met the [[Characters/Decepticons/Decepticon Intelligence/Prowl\|‘bot]] that would change the course of his life forever. A private investigator with a motormouth and a sense of justice that bordered on suicidal. Everywhere Chromedome went, there was that chatterbox, talking to the same witnesses, poking around the same places, and even taking note of the same clues!
 
 Their cases couldn’t be any more different! Or, so Chromedome thought… but much to his chagrin (and Prowl’s amusement) their cases were, in fact, the very same. They’d only been approaching them from different angles. Putting his pride — and his disdain for what might be the strangest ‘bot in [[Cybertron/Polities/Praxus\|Praxus]] — aside, Chromedome reached out to this Prowl fellow, offering to collaborate. 
 
@@ -23,6 +24,8 @@ As one mystery began to multiply, and the stakes began to rise far higher than e
 
 One begrudging collaboration led to a second, and then a third, and then the two were regular associates— and surprisingly close friends. 
 
+#### Inseparable Partners
+
 Even when their cases didn’t overlap, they found ways to work together. Prowl would pitch in to help Chromedome on his investigations, using his connections to help Chromedome get information he couldn’t otherwise access, and Chromedome used his skills as a detective to assist Prowl with his investigations, and would often go to Prowl with his own findings, so he could bring them to light.
 
 In many ways, Prowl made Chromedome a better person. Prowl’s unshakable moral compass and seemingly unstoppable determination to drag the ills of their society out into the light for all to see rubbed off on Chromedome, whose profession had left him quite jaded. Prowl’s determination to drag him out of his office at least once a month got Chromedome, as Prowl would say, “living a little.” Though, he would always find Prowl’s wackier tendencies to be headache-inducing, and the two tended to bicker quite a bit when it came to the more… conspiratorial things Prowl tended to believe. Oh, yes, the [[Institute\|government]] is [[Cybertron/Society and Culture/Shadowplay\|brainwashing]] people– very funny, Prowl.
@@ -31,7 +34,9 @@ He will, to this day, never admit how often Prowl’s “wild theories” as he 
 
 Eventually, the two stumbled into a relationship, though Prowl will tell you that most of the stumbling was on Chromedome’s end. Chromedome fell first, though he barely noticed he had– and it took him an embarrassingly long time to realize that no, Prowl covering his desk in flowers and home-made energon goodies (that he had learned to make just for Chromedome) was not, in fact, Prowl’s way of saying that they were great friends.
 
-As time went on, and the political situation on Cybertron began to [[Characters/Sentinel Prime\|deteriorate]], Prowl began investigating the [[Cybertron/History/Primacy\|wrong]] [[Senate\|people]]. When a colleague and on-again, off-again [[Tarantulas\|lover]] of his disappeared under mysterious circumstances, Chromedome and Rewind began to fear for their friend’s safety… and Rewind began to wonder if those [[Institute\|nonsensical]] [[Cybertron/Society and Culture/Shadowplay\|theories]] of his had some truth to them after all. 
+As time went on, and the political situation on Cybertron began to [[Characters/Primacy/Sentinel Prime\|deteriorate]], Prowl began investigating the [[Cybertron/History/Primacy\|wrong]] [[Senate\|people]]. When a colleague and on-again, off-again [[Tarantulas\|lover]] of his disappeared under mysterious circumstances, Chromedome and Rewind began to fear for their friend’s safety… and Rewind began to wonder if those [[Institute\|nonsensical]] [[Cybertron/Society and Culture/Shadowplay\|theories]] of his had some truth to them after all. 
+
+#### The Great War
 
 In the wake of the [[Cybertron/History/Decepticon Uprising\|Decepticon Uprising]] and the fall of the Primacy, most assumed that the worst was over. Prowl, on the other hand, saw which way the [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|wind was blowing]] long before the rest of the planet. He begged Chromedome and Rewind to leave Cybertron, to go to [[Paradron\|Paradron]], Velocitron, _anywhere._ Prowl, however, insisted that he would stay… he couldn’t sit by and watch, he said. When the war began in earnest, when news of the brutality made its way to the Cybertronian diaspora… all Chromedome could think of was Prowl.
 
@@ -42,6 +47,8 @@ And then came the day when Prowl stopped responding.
 Life went on for Chromedome and Rewind. They made a new life on Paradron. Rewind settled into a position as an archivist in the city they’d moved to, and Chromedome found work as a data analyst. Years turned into centuries, centuries turned into millennia, so on and so forth… and the war became little more than background noise. Despite this… Chromedome kept thinking of Prowl. He and Rewind would check their messages every week, in the vain hope that he would have responded, have said something, anything to indicate that he was alive…
 
 Nothing.
+
+#### Post-War
 
 They only learned Prowl was alive when they returned to Cybertron after the end of the war. Finding out just why Prowl had ceased all communications, had very nearly let them believe he was dead… Chromedome could hardly look him in the eye.
 

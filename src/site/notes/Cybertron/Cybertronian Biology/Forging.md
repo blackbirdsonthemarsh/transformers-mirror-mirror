@@ -11,7 +11,7 @@ If left undisturbed, these sparks will lay on the surface for decades, if not ce
 
 Sparks ignite very rarely, with some hot spots producing a handful of Cybertronians each year. In times of war, sparkfields often go dormant, with sparks retreating beneath the surface. 
 
-In the wake of the [[Cybertron/History/The Quintesson War/Quintesson War\|Quintesson War]], the vast majority of the Cybertronian population was dead. Fearing the return of the [[Quintessons\|Quintessons]], an impending population crisis, and believing that the only way to secure Cybertron’s future was to replenish its military and work force as fast as possible, [[Characters/Nominus Prime\|Characters/Nominus Prime]] authorized the beginnings of what would become [[Cybertron/Cybertronian Biology/Cold Construct\|cold construction]]. 
+In the wake of the [[Cybertron/History/The Quintesson War/Quintesson War\|Quintesson War]], the vast majority of the Cybertronian population was dead. Fearing the return of the [[Quintessons\|Quintessons]], an impending population crisis, and believing that the only way to secure Cybertron’s future was to replenish its military and work force as fast as possible, [[Characters/Primacy/Nominus Prime\|Nominus Prime]] authorized the beginnings of what would become [[Cybertron/Cybertronian Biology/Cold Construct\|cold construction]]. 
 ##### Notes
 ---
 - No mechanical species is capable of sexual reproduction. It’s one of the key factors that determines whether a species is organic or mechanical. 
