@@ -5,9 +5,9 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-The symbol of the [[The Great War/Factions/Decepticons/Decepticon\|Decepticon]] faction, a badge in the shape of [[Characters/Megatronus Prime\|Megatronus Prime’s]] shield. The symbol was chosen by [[Characters/Soundwave\|Soundwave]], to honor the hero of Cybertronian legend. 
+The symbol of the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] faction, a badge in the shape of [[Characters/The Thirteen/Megatronus Prime\|Megatronus Prime’s]] shield. The symbol was chosen by [[Characters/Decepticons/Soundwave\|Soundwave]], to honor the hero of Cybertronian legend. 
 
-In the early days, before the [[Cybertron/History, Society and Culture/Decepticon Uprising\|uprising]], badges were made of whatever metal they could grab hold of. ‘Bots would grab what they could, typically from their homes or other sites they frequented.
+In the early days, before the [[Cybertron/History/Decepticon Uprising\|uprising]], badges were made of whatever metal they could grab hold of. ‘Bots would grab what they could, typically from their homes or other sites they frequented.
 
 This evolved into something of a tradition, where would-be Decepticons bring metal from a place significant to them, often their homeland. This meant that the badge was not just a symbol of the cause they fought for, but the reason they were fighting. 
 
