@@ -30,10 +30,8 @@ The Autobots made heavy use of MTOs throughout the war, with production peaking 
 Initially, MTOs were meant to be a supplement, to make up the difference in manpower between the Autobots and Decepticons, but as civilian recruitment dried up, the army began to rely on them more and more. Unlike their predecessors, Autobot MTOs were fed a steady diet of propaganda from the moment they came online. They were still treated as disposable, 
 
 The Decepticons never made use of the practice, and abhorred it as a form of slavery.
-
 #### Legacy
-
-
+TBA
 ##### Notes
 ---
 - MTOs are a large part of the setting, because the idea of mass-produced soldiers 

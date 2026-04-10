@@ -5,7 +5,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-Megatron was forged in [[Cybertron/Polities/Tarn\|Tarn]] alongside his [[Cybertron/Cybertronian Biology/Split-spark Siblings\|twin brother]], [[Characters/Galvatron\|Characters/Galvatron]].
+Megatron was forged in [[Cybertron/Polities/Tarn\|Tarn]] alongside his [[Cybertron/Cybertronian Biology/Split-spark Siblings\|twin brother]], [[Characters/Decepticons/Galvatron\|Galvatron]].
 
 Megatron would go on to take over the nascent [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] movement, spearheading their [[Cybertron/History/Decepticon Uprising\|uprising against the government]], and he would lead the faction until the end of Cybertron's [[Cybertron/History/The Great War/Great War\|civil war]].
 ##### Notes

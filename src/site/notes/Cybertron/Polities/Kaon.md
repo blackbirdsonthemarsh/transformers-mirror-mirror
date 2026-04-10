@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/cybertron/polities/kaon/","dg-note-properties":{}}
 ---
-  
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -27,4 +27,4 @@ Their faith stresses that one must always leave the world a better place than th
 Unlike elsewhere on Cybertron, it is traitionally held that all the Thirteen are dead. They shall not return, and in their passing, their duty has been passed to the people of Cybertron. It is the duty of the living to live up to the legacy of those who came before, and to make the world better for those who come after.
 ### Notes
 ---
-- Characters built or forged in Kaon include: [[Characters/Decepticons/Decepticon Intelligence/Howlback\|Howlback]], [[Characters/Decepticons/Scavengers/Surefire\|Surefire]], [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]], [[Characters/Hi-Test\|Hi-Test]], [[Characters/Decepticons/Throttle\|Throttle]], [[Caliburst\|Caliburst]], [[Obsidian\|Obsidian]], [[Characters/Decepticons/Termagax\|Termagax]], [[Characters/Decepticons/Mayhem/Thunderwing\|Thunderwing]], [[Hook\|Hook]], [[Scrapper\|Scrapper]], [[Scavenger\|Scavenger]], [[Long Haul\|Long Haul]], [[Bonecrusher\|Bonecrusher]], [[Mixmaster\|Mixmaster]], [[Gravedigger\|Gravedigger]], [[Hauler\|Hauler]], [[Clobber\|Clobber]], [[Alpha Strike\|Alpha Strike]], [[Lugnut\|Lugnut]] and [[Arcee\|Arcee]].
+- Characters built or forged in Kaon include: [[Characters/Decepticons/Decepticon Intelligence/Howlback\|Howlback]], [[Characters/Decepticons/Scavengers/Surefire\|Surefire]], [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]], [[Hi-Test 1\|Hi-Test 1]], [[Characters/Decepticons/Throttle\|Throttle]], [[Caliburst\|Caliburst]], [[Obsidian\|Obsidian]], [[Characters/Decepticons/Termagax\|Termagax]], [[Characters/Decepticons/Mayhem/Thunderwing\|Thunderwing]], [[Hook\|Hook]], [[Scrapper\|Scrapper]], [[Scavenger\|Scavenger]], [[Long Haul\|Long Haul]], [[Bonecrusher\|Bonecrusher]], [[Mixmaster\|Mixmaster]], [[Gravedigger\|Gravedigger]], [[Hauler\|Hauler]], [[Clobber\|Clobber]], [[Alpha Strike\|Alpha Strike]], [[Lugnut\|Lugnut]] and [[Arcee\|Arcee]].
