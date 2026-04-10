@@ -9,6 +9,5 @@ An [[Cybertron/Cybertronian Biology/Outlier\|outlier]] with a notoriously danger
 
 Amp found a [[Characters/Decepticons/Decepticon Justice Division/Damus\|kindred spirit]] in the form of the leader of the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon Justice Division\|Decepticon Justice Division]], whose powers had put him in a very similar position. Amp’s own abilities and the skills he’d learned during the war led to Damus inviting him to become a founding member of the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon Justice Division\|Decepticon Justice Division]], where he served as its communications officer. 
 ##### Notes
----
 - He’s a cat person.
 - Outliers whose abilities disrupt technology tend to have very few employment options unless they can get their powers under control. Many lived at the edge of poverty, because the vast majority of jobs were inaccessible. 

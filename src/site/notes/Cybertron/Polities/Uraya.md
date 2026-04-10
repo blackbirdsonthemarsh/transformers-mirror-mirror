@@ -9,5 +9,4 @@ A city-state in the northern half of [[Cybertron\|Cybertron]], high in the [[Cyb
 
 During the [[Cybertron/History/The Great War/Great War\|Great War]], the two city-states were officially neutral, but sympathetic to the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]].
 ##### Notes
----
 - Urayan and Altihexian are quite similar languages due to literally millions of years of cultural cross-pollination, while Tetrahexian sounds utterly alien to the both of them. Think of how Norwegian and Danish are similar enough, but, say, Finnish sounds nothing like either of them despite Finland being right next door geographically speaking.
