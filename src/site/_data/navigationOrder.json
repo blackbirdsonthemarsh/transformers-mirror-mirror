@@ -1,0 +1,162 @@
+{
+  "/": [
+    "Home",
+    "Characters",
+    "Cybertron"
+  ],
+  "/Characters": [
+    "Camiens",
+    "Decepticons",
+    "Neutral",
+    "Primacy",
+    "Titans"
+  ],
+  "/Characters/Camiens": [
+    "Full-tilt"
+  ],
+  "/Characters/Decepticons": [
+    "Decepticon Intelligence",
+    "Decepticon Justice Division",
+    "High Command",
+    "Mayhem",
+    "Scavengers",
+    "Airachnid",
+    "Ambulon",
+    "Darkwing",
+    "Dreadwind",
+    "Flip Sides",
+    "Frenzy",
+    "Galvatron",
+    "Hi-Test",
+    "Nightstick",
+    "Rampage",
+    "Ravage",
+    "Rumble",
+    "Termagax",
+    "Terminus",
+    "Throttle",
+    "Tidal Wave",
+    "Triggerhappy",
+    "Twirl"
+  ],
+  "/Characters/Decepticons/Decepticon Intelligence": [
+    "Bitstream",
+    "Howlback",
+    "Red Wing"
+  ],
+  "/Characters/Decepticons/Decepticon Justice Division": [
+    "Amp",
+    "Forestock"
+  ],
+  "/Characters/Decepticons/High Command": [
+    "Ambulon",
+    "Lyzack",
+    "Megatron",
+    "Soundwave",
+    "Thunderblast"
+  ],
+  "/Characters/Decepticons/Mayhem": [
+    "Thunderwing"
+  ],
+  "/Characters/Decepticons/Scavengers": [
+    "Flyhigh",
+    "Fulcrum",
+    "Krok",
+    "Spinister",
+    "Surefire"
+  ],
+  "/Characters/Neutral": [
+    "Chromedome",
+    "Outback",
+    "Rewind"
+  ],
+  "/Characters/Primacy": [
+    "Nominus Prime"
+  ],
+  "/Characters/Titans": [
+    "Trypticon"
+  ],
+  "/Cybertron": [
+    "Cybertronian Biology",
+    "History",
+    "Locations",
+    "Polities",
+    "Primus and Unicron",
+    "Society and Culture",
+    "Technology"
+  ],
+  "/Cybertron/Cybertronian Biology": [
+    "Cold Construct",
+    "Deployers",
+    "Forging",
+    "Frametype",
+    "Inbuilt Weaponry",
+    "Living Metal",
+    "Multi-changers",
+    "Outlier",
+    "Spark",
+    "Sparkfield",
+    "Sparkling",
+    "Split-spark Siblings",
+    "Transformation"
+  ],
+  "/Cybertron/History": [
+    "The Great War",
+    "Decepticon Uprising"
+  ],
+  "/Cybertron/History/The Great War": [
+    "Factions",
+    "MTO"
+  ],
+  "/Cybertron/History/The Great War/Factions": [
+    "Autobots",
+    "Decepticons"
+  ],
+  "/Cybertron/History/The Great War/Factions/Autobots": [
+    "Autobot",
+    "Shield of Solus",
+    "Wreckers"
+  ],
+  "/Cybertron/History/The Great War/Factions/Decepticons": [
+    "Decepticon",
+    "Decepticon Badge",
+    "Decepticon Justice Division",
+    "Mayhem",
+    "Scavengers",
+    "Warriors Elite"
+  ],
+  "/Cybertron/Locations": [
+    "Argon Sea",
+    "Hydrax Plateau",
+    "Sea of Rust",
+    "Sonic Canyons",
+    "Tagan Heights"
+  ],
+  "/Cybertron/Polities": [
+    "Iacon",
+    "Kalis",
+    "Kaon",
+    "Nova Cronum",
+    "Polyhex",
+    "Protihex",
+    "Uraya",
+    "Vos"
+  ],
+  "/Cybertron/Primus and Unicron": [
+    "Ununtrium"
+  ],
+  "/Cybertron/Society and Culture": [
+    "Cybertronian Religion",
+    "Empurata",
+    "Matrix",
+    "Primus, Unicron and Gaea",
+    "Shadowplay",
+    "Thirteen"
+  ],
+  "/Cybertron/Technology": [
+    "Foldspace Warhead",
+    "Fusion Cannon",
+    "Null-ray",
+    "Space Bridge"
+  ]
+}
