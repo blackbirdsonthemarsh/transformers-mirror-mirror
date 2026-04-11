@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/cybertron/history/the-great-war/major-events/timeline-of-the-great-war/","dg-note-properties":{}}
 ---
-  
+
+ 
 >[!warning] Note to self
 >This page is purely for personal reference, as it **does not display correctly on the site.**
 
