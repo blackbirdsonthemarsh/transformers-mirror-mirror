@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/sparkfield/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -11,5 +12,4 @@ Each sparkfield has unique characteristics, ranging from the metals present (whi
 
 The natural emergence rate of even the highest-producing sparkfield is incredibly low, though when combined with the lifespans of Cybertronians, the low “birth” rate keeps the population stable.  
 ##### Notes
----
 - While “hot spot” is the term used in IDW, I opted to have “sparkfield” be the proper term and “hot spot” be a slang term, to avoid confusion with the character of Hot Spot. 

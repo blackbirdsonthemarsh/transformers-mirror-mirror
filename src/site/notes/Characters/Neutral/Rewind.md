@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/characters/neutral/rewind/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -13,6 +14,5 @@ As time went on, and the political situation on Cybertron began to [[Characters/
 
 Then, the [[Cybertron/History/Decepticon Uprising\|Decepticon Uprising]] turned everything about their world upside down. The [[Cybertron/History/Primacy\|Primacy]] fell, the cities of Cybertron regained their independence, and it seemed like anything could happen. Just as the dust began to settle, Prowl came to them with a warning— the fighting was [[Cybertron/History/The Great War/Great War\|far from over]]. There was a [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|fear]] in his voice that they had never heard before. Heeding his warning, they left the planet, relocating to [[Paradron\|Paradron]], while Prowl remained on Cybertron. When the Great War broke out, they were horrified. 
 ##### Notes
----
 - Rewind does, in fact, transform into a [super space tank](https://tfwiki.net/wiki/Rewind_(G1)#Timelines). On account of Mirror Mirror lacking mass-shifting, a Cybertronian who turns into a memory stick would be so small in robot mode that the rest of the cast would be at risk of inhaling him. 
 - Chromedome, the sap, planned their [[Cybertron/Society and Culture/Spark Bond\|conjunxing]] celebration down to the letter, finding the loveliest spot on a cliff overlooking the [[Cybertron/Locations/Mithril Sea\|Mithril Sea]]. Prowl gave a heartfelt speech, wishing the both of them a long life full of love. 

@@ -1,7 +1,8 @@
 ---
 {"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/split-spark-siblings/","dg-note-properties":{}}
 ---
-  
+
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -10,12 +11,12 @@
 Some theorize that [[Cybertron/Cybertronian Biology/Outlier\|outliers]] are the result of a similar survival mechanism, where a spark does not split, but instead mutates into a new form capable of surviving. 
 
 Notable sets of split-spark siblings include:
-- [[Characters/Megatron\|Characters/Megatron]] and [[Characters/Galvatron\|Characters/Galvatron]]
-- [[Characters/Starscream\|Characters/Starscream]], [[Characters/Skywarp\|Characters/Skywarp]] and [[Characters/Thundercracker\|Characters/Thundercracker]]
-- [[Characters/Optimus Prime\|Characters/Optimus Prime]] and [[Characters/Ultra Magnus\|Characters/Ultra Magnus]]
-- [[Characters/Lyzack\|Characters/Lyzack]] and [[Leozack\|Leozack]]
-- [[Characters/Rumble\|Characters/Rumble]] and [[Characters/Frenzy\|Characters/Frenzy]]
-- [[Characters/Skyfire\|Characters/Skyfire]] and [[Jetfire\|Jetfire]] 
+- [[Characters/Decepticons/High Command/Megatron\|Megatron]] and [[Galvatron\|Galvatron]]
+- [[Characters/Decepticons/High Command/Starscream\|Starscream]], [[Characters/Decepticons/High Command/Skywarp\|Skywarp]] and [[Characters/Decepticons/Thundercracker\|Thundercracker]]
+- [[Characters/Autobots/Optimus Prime\|Optimus Prime]] and [[Characters/Autobots/Ultra Magnus\|Ultra Magnus]]
+- [[Characters/Decepticons/High Command/Lyzack\|Lyzack]] and [[Leozack\|Leozack]]
+- [[Characters/Decepticons/Rumble\|Rumble]] and [[Characters/Decepticons/Frenzy\|Frenzy]]
+- [[Characters/Neutral/Skyfire\|Skyfire]] and [[Jetfire\|Jetfire]] 
 - [[Needlenose\|Needlenose]] and [[Tracks\|Tracks]] 
 - [[Sideswipe\|Sideswipe]] and [[Sunstreaker\|Sunstreaker]]
 ##### Notes
