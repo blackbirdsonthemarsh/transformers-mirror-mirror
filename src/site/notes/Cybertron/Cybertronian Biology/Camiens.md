@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/camiens/","dg-note-properties":{}}
+---
+
+
+
+An offshoot of the [[Cybertronians\|Cybertronian]] species, born from the [[Cybertron/Cybertronian Biology/Sparkfield\|sparkfields]] of the [[Cybertron/History/Age of the Primes/Titan\|Titan]] [[Characters/Titans/Caminus\|Caminus.]] On account of being born from a Titan, rather than having emerged from Cybertron’s own sparkfields, their biology is different to that of their planetborn cousins, only being considered a subspecies of Cybertronians on a technicality. Camien energon is a single color, a bright orange, as are their sparks — which they call “embers.” Said embers have a much higher output power, leading to a much higher body temperature. Camiens run hot enough that all but battleships and shuttles can feel the heat through their plating, and those who aren’t rated for high temperatures find their touch unpleasant. Their biolights and optics are a molten orange, and they’re covered in seams and vents to expel excess heat, that often release scalding steam after strenuous activity.
+##### Notes
+- Because energon in Mirror Mirror is not a naturally-occurring substance (beyond the blood of Primus) and is instead generated from any source of energy (ranging from sunlight to noise itself), there is no energon scarcity, and thus, Camiens — who have access to the massive energon refineries of a Titan, and have unimpeded access to sunlight all around them — are by no means resource-poor. They’re the opposite, and are quite wasteful with their fuel.
+- Rather than eschewing guns in favor of energy-efficient melee weapons, Camiens love guns. Windblade is covered in them, Full-tilt is a tankette, and Caminus himself has something akin to the main gun of the SDF-1 from the original Macross. 
+- Notable Camiens include: [[Characters/Camiens/Full-tilt\|Full-tilt]], [[Characters/Camiens/Windblade\|Windblade]] and the [[Characters/Camiens/Mistress of Flame\|Mistress of Flame.]] [[Chromia\|Chromia]] is not a Camien, as she is primarily based on her G1 cartoon incarnation, rather than her IDW 2005 incarnation. 
