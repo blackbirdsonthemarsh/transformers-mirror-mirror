@@ -7,7 +7,7 @@
 
 A squadron composed of the mightiest [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]] to ever live, [[Cybertron/Cybertronian Biology/Outlier\|outliers]] whose frames were rebuilt from the ground up from [[Cybertron/Primus and Unicron/Ununtrium\|ununtrium]], rendering them nigh-invulnerable super-soldiers, with each capable of turning the tide of a battle on their own.
 
-For millions of years, the Primacy had been stockpiling ununtrium. In the last days of the [[Cybertron/History/Decepticon Uprising\|Decepticon Uprising]] when Decepticon forces finally took [[Cybertron/Polities/Iacon\|Iacon]], these stockpiles fell into Decepticon hands. Midway 
+For millions of years, the Primacy had been stockpiling ununtrium. In the last days of the [[Cybertron/History/The Primacy/Decepticon Uprising\|Decepticon Uprising]] when Decepticon forces finally took [[Cybertron/Polities/Iacon\|Iacon]], these stockpiles fell into Decepticon hands. Midway 
 
 Though they were a symbol of hope to the Decepticons, their creation weighs heavily on [[Characters/Starscream\|Starscream's mind]]. Each and every component, down to the smallest joint in their frames, had to be rebuilt out of [[Cybertron/Primus and Unicron/Ununtrium\|ununtrium]] in a long and dangerous process that risked the lives of each and every volunteer. 
 

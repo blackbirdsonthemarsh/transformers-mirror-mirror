@@ -9,7 +9,7 @@ An island floating above the [[Cybertron/Locations/Sea of Rust\|Sea of Rust]], h
 
 As part of his campaign of investing in Cybertron’s infrastructure in the wake of the Quintesson War, [[Characters/Primacy/Nominus Prime\|Nominus Prime]] funded the construction of Cybertron’s largest spaceport. 
 
-During the [[Cybertron/History/Decepticon Uprising\|Decepticon Uprising]], the Hydrax Plateau and its spaceport was one of the first locations to be secured by the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]], and they held it throughout the [[Cybertron/History/The Great War/Great War\|Great War]]. 
+During the [[Cybertron/History/The Primacy/Decepticon Uprising\|Decepticon Uprising]], the Hydrax Plateau and its spaceport was one of the first locations to be secured by the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]], and they held it throughout the [[Cybertron/History/The Great War/Great War\|Great War]]. 
 ##### Notes
 ---
 - Pieces of the planet detaching, rising into the air and becoming floating islands, or even archipelagos, is not at all uncommon. Many major cities are built atop them, with [[Cybertron/Polities/Vos\|Vos]] and [[Cybertron/Polities/Polyhex\|Polyhex]] being the most famous examples. 

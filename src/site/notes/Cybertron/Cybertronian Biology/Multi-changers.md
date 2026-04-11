@@ -21,7 +21,7 @@ Notable multi-changers in Mirror Mirror include:
 - [[Counterpunch\|Counterpunch]]
 - [[Characters/Decepticons/Rampage\|Rampage]]
 
-Multi-changers, with the exception of those who split in half during their transformations, are almost always forged. This is because of the mechanical complexity inherent in their transformations Both the [[Cybertron/History/Primacy\|inter-war government]] and the [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|Autobots]] deemed it too expensive to even bother making mass-production molds for triple-changers, let alone quad-changers, when you could build multiple molds that have to compromise nothing about their design for the same price. [[Characters/Rampage\|There were the occasional one-offs]]. 
+Multi-changers, with the exception of those who split in half during their transformations, are almost always forged. This is because of the mechanical complexity inherent in their transformations Both the [[Cybertron/History/The Primacy/Primacy\|inter-war government]] and the [[Cybertron/History/The Great War/Factions/Autobots/Autobot\|Autobots]] deemed it too expensive to even bother making mass-production molds for triple-changers, let alone quad-changers, when you could build multiple molds that have to compromise nothing about their design for the same price. [[Characters/Rampage\|There were the occasional one-offs]]. 
 
 Six-changers are exclusively forged, because the complexity of their designs meant that no attempts were made to begin with. Due to their complexity and the strain put on their sparks, six-changers often have physical defects, such as missing color nanites or an [[Nightbird\|improperly-formed vocalizer]].
 ##### Notes
