@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/mithril-sea/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/locations/mithril-sea/"}
 ---
   
 >[!warning] 

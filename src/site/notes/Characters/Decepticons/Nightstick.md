@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/nightstick/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/nightstick/"}
 ---
   
 >[!warning] 

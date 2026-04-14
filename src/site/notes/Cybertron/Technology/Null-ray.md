@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/technology/null-ray/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/technology/null-ray/"}
 ---
 
 

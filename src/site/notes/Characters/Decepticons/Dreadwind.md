@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/dreadwind/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/dreadwind/"}
 ---
 
 

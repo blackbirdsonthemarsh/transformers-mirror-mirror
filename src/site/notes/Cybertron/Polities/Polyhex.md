@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/polities/polyhex/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/polities/polyhex/"}
 ---
 
 One of the northernmost [[Cybertron\|Cybertronian]] city-states, built on a series of floating islands floating over the shores of the [[Cybertron/Locations/Sea of Rust\|Sea of Rust]]. Few city-states have so dramatic a history, and fewer still have reinvented themselves as many times as Polyhex has. It has been everything from the greatest military power on Cybertron, to the home of arts and science under the [[Cybertron/History/The Primacy/Primacy\|Primacy]], to one of the strongholds of the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] movement during the [[Cybertron/History/The Great War/Great War\|Great War]]. Its nearest neighbors are [[Cybertron/Polities/Iacon\|Iacon]], [[Cybertron/Polities/Nova Cronum\|Nova Cronum]] and the [[Cybertron/Locations/Tagan Heights\|Tagan Heights]]. 

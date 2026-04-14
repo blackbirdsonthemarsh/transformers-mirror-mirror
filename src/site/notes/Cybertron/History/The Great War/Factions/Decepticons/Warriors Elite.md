@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/warriors-elite/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/warriors-elite/"}
 ---
   
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/the-citadel/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/locations/the-citadel/"}
 ---
 
 >[!warning] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/primus-and-unicron/ununtrium/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/primus-and-unicron/ununtrium/"}
 ---
 
 >[!warning] 

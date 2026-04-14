@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/hi-test/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/hi-test/"}
 ---
   
 >[!warning] 

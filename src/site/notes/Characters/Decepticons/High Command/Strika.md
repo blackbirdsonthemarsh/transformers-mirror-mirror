@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/high-command/strika/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/high-command/strika/"}
 ---
   
 >[!warning] 

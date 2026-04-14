@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/flip-sides/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/flip-sides/"}
 ---
   
 >[!warning] 

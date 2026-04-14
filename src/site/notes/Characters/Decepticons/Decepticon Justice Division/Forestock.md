@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/decepticon-justice-division/forestock/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/decepticon-justice-division/forestock/"}
 ---
 
 
@@ -12,7 +12,7 @@ Where many veterans joined political movements or [[Characters/Primacy/Nominus P
 
 As he watched the planet he’d fought for slide further and further into dictatorship, with [[Cybertron/Society and Culture/Empurata\|the mutilation of its citizens]] becoming standard practice, Forestock grew increasingly cynical. He’d fought and bled to save Cybertron from genocide, and this was what came of it all? This was the light at the end of the tunnel? His life felt like a joke. It wasn’t until the work of a pair of [[Characters/Decepticons/High Command/Megatron\|young]] [[Galvatron\|miners]] began to gain traction that Forestock saw a chance for a better world. 
 
-As war loomed on the horizon, Forestock could have fled the planet, like so many others. He contemplated leaving, giving up Cybertron for lost. Yet, when the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]] began their uprising in earnest, Forestock signed on. He found himself in the thick of it, fighting in some of the most pivotal battles of the uprising. His time with the Decepticons saw him assigned to various snipers as a gun and spotter, and he quickly made a name for himself. Eventually, he was recruited a founding member of one of the Decepticon’s most elite units, the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon Justice Division\|Decepticon Justice Division]]. 
+As war loomed on the horizon, Forestock could have fled the planet, like so many others. He contemplated leaving, giving up Cybertron for lost. Yet, when the [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticons]] began their uprising in earnest, Forestock signed on. He found himself in the thick of it, fighting in some of the most pivotal battles of the uprising. His time with the Decepticons saw him assigned to various snipers as a gun and spotter, and he quickly made a name for himself. Eventually, he was recruited a founding member of one of the Decepticon’s most elite units, the [[Decepticon Justice Division\|Decepticon Justice Division]]. 
 
 Forestock is too jaded, and, as he’d put it, too old to be any sort of zealot. He believes in the Decepticon cause, but it’s not the faith of a blind loyalist, far from it. He’s happy to criticize the cause, criticize Megatron, even. He’s seen enough to know that any ideology can fail or go too far, and he lost his patience for rabid idealists a long time ago. He’s not prone to hero worship, nor is he the type to put anything or anyone on a pedestal— least of all any authority figures. 
 ##### Notes

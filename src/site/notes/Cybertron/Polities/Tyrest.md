@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/polities/tyrest/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/polities/tyrest/"}
 ---
 
 >[!warning] 

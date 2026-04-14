@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/polities/apophenia/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/polities/apophenia/"}
 ---
 
 

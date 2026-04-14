@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/polities/nova-cronum/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/polities/nova-cronum/"}
 ---
 
 >[!warning] 

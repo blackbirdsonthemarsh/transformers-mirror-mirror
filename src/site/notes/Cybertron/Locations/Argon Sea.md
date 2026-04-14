@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/argon-sea/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/locations/argon-sea/"}
 ---
   
 >[!warning] 

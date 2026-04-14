@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/decepticon-justice-division/"}
+{"dg-publish":true,"permalink":"/decepticon-justice-division/"}
 ---
-  
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -10,14 +10,12 @@ The Decepticon Justice Division is a [[Cybertron/History/The Great War/Factions/
 Though they were nominally headquartered on [[Messatine\|Messatine]], the team spent most of their days aboard their ship, the [[Peaceful Tomorrow\|Peaceful Tomorrow]]. 
 
 By the end of the war, its roster was comprised of:
-- [[Characters/Decepticons/Decepticon Justice Division/Damus\|Damus]] its leader and founder;
-- [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]];
-- [[Crucible\|Crucible]], its logistics expert;
-- [[Scissorsaw\|Scissorsaw]];
-- [[Characters/Decepticons/Decepticon Justice Division/Amp\|Amp]], its communication officer;
-- and [[Pharma\|Pharma]], its medic. 
-
-Though they were created to operate independently, they occasionally worked with other Decepticon special operations units, such as [[Cybertron/History/The Great War/Factions/Decepticons/Mayhem\|Mayhem]] and the [[Cybertron/History/The Great War/Factions/Decepticons/Scavengers\|Scavengers]]. 
+- [[Characters/Decepticons/Decepticon Justice Division/Damus\|Damus]], its leader and founder;
+- [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]], the ship’s engineer;
+- [[Crucible\|Crucible]], its weapons expert;
+- [[Scissorsaw\|Scissorsaw]], its pilot;
+- [[Characters/Decepticons/Decepticon Justice Division/Amp\|Amp]], its communications officer;
+- and [[Pharma\|Pharma]], its medic, and the final member to join. 
 ##### Notes
 ---
 - For a long time, I had no intention of even including the Decepticon Justice Division itself in Mirror Mirror. Originally, [[Characters/Decepticons/Decepticon Justice Division/Damus\|Tarn]] and [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Vos]] were going to be the only ones present, because I had no real ideas for the others.  

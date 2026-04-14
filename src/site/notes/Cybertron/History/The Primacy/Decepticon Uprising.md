@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-primacy/decepticon-uprising/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/history/the-primacy/decepticon-uprising/"}
 ---
   
 >[!warning] 

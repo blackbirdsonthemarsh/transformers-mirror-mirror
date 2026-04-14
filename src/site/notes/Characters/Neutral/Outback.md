@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/neutral/outback/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/neutral/outback/"}
 ---
   
 >[!warning] 

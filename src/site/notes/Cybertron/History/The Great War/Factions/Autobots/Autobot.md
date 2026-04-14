@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/autobots/autobot/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/autobots/autobot/"}
 ---
   
 >[!warning] 

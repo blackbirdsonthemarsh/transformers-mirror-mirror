@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/technology/foldspace-warhead/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/technology/foldspace-warhead/"}
 ---
 
 A Cybertronian weapon of mass displacement, utilizing [[Cybertron/Technology/Transwarp\|transwarp]] technology to send whatever is unfortunate enough to be caught in its radius to a random location in the universe.

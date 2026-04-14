@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/technology/mass-shifting/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/technology/mass-shifting/"}
 ---
 
 >[!warning] 

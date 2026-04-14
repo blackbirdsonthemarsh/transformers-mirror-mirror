@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/tagan-heights/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/locations/tagan-heights/"}
 ---
   
 >[!warning] 

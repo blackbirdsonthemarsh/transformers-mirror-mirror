@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/decepticon-intelligence/bitstream/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/decepticon-intelligence/bitstream/"}
 ---
   
 >[!warning] 

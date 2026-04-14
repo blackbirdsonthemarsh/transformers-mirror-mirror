@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/high-command/ambulon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/high-command/ambulon/"}
 ---
 
 

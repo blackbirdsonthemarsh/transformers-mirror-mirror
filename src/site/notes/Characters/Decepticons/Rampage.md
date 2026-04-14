@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/rampage/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/rampage/"}
 ---
 
 

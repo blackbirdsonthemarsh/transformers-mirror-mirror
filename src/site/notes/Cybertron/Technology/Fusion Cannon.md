@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/technology/fusion-cannon/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/technology/fusion-cannon/"}
 ---
 
 

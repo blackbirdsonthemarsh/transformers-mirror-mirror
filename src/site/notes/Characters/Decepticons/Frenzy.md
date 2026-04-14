@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/decepticons/frenzy/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/decepticons/frenzy/"}
 ---
   
 >[!warning] 

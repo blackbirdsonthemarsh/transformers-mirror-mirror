@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/transformation/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/cybertronian-biology/transformation/"}
 ---
 
 

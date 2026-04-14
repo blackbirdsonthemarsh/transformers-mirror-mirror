@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cybertron/locations/hydrax-plateau/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/cybertron/locations/hydrax-plateau/"}
 ---
   
 >[!warning] 
