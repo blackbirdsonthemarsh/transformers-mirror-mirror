@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"permalink":"/cybertron/history/the-great-war/factions/decepticons/decepticon-justice-division/"}
 ---
-  
+
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
@@ -11,9 +11,9 @@ Though they were nominally headquartered on [[Messatine\|Messatine]], the team s
 
 By the end of the war, its roster was comprised of:
 - [[Characters/Decepticons/Decepticon Justice Division/Damus\|Damus]] its leader and founder;
-- [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]];
-- [[Crucible\|Crucible]], its logistics expert;
-- [[Scissorsaw\|Scissorsaw]];
+- [[Characters/Decepticons/Decepticon Justice Division/Forestock\|Forestock]], its engineer;
+- [[Crucible\|Crucible]], its weapons expert;
+- [[Scissorsaw\|Scissorsaw]], its pilot;
 - [[Characters/Decepticons/Decepticon Justice Division/Amp\|Amp]], its communication officer;
 - and [[Pharma\|Pharma]], its medic. 
 

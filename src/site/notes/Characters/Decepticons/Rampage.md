@@ -6,7 +6,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-A [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] [[Cybertron/Cybertronian Biology/Outlier\|outlier]] and member of the [[Cybertron/History/The Great War/Factions/Decepticons/Warriors Elite\|Warriors Elite]].
+A [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] [[Cybertron/Cybertronian Biology/Outlier\|outlier]] and member of the [[Cybertron/History/The Great War/Factions/Decepticons/Phase Sixer\|Phase Sixer]].
 
 Despite their wildly different personalities, he has an odd friendship with [[Transmutate\|Transmutate]].
 ##### Notes

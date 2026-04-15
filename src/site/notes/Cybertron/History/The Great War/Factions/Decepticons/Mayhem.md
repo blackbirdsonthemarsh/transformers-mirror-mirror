@@ -5,7 +5,7 @@
 >[!warning] 
 >This page is either entirely or partially incomplete. 
 
-The [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] answer to [[Cybertron/History/The Great War/Factions/Autobots/Wreckers\|the Wreckers]]. Mayhem is the most famous of the Decepticon special forces units, seen by the rest of the troops as second only to the [[Cybertron/History/The Great War/Factions/Decepticons/Warriors Elite\|Warriors Elite]]
+The [[Cybertron/History/The Great War/Factions/Decepticons/Decepticon\|Decepticon]] answer to [[Cybertron/History/The Great War/Factions/Autobots/Wreckers\|the Wreckers]]. Mayhem is the most famous of the Decepticon special forces units, seen by the rest of the troops as second only to the [[Cybertron/History/The Great War/Factions/Decepticons/Phase Sixer\|Phase Sixer]]
 
 Notable members include: 
 - [[Crasher\|Crasher]], its founder
